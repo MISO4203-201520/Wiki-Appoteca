@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Requerimientos](chapters/requerimientos.md)
-* Análisis de código
+* [Análisis de código](chapters/analisis_de_codigo.md)
 * [Arquitectura](chapters/arquitectura.md)
    * [Vista de desarrollo](chapters/arq/development_view.md)
    * [Vista funcional](chapters/arq/functional_view.md)
