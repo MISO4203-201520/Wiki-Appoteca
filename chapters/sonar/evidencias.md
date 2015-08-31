@@ -54,7 +54,8 @@ Classes: Número total de clases en el proyecto Incluyendo interfaces, enums y a
 Accessors: Número total de métodos get y set utilizados en el proyecto, en total son 98.
 
 
-
+##Duplications:
+   ![alt text](http://s29.postimg.org/nuu0elvzb/Screen_Shot_2015_08_29_at_9_41_42_AM.png "Logo Title Text 1")
 
 
 
