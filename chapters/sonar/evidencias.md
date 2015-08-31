@@ -19,24 +19,30 @@ Se refiere a las líneas de código ya sea comentarios o código.  En cuanto a A
 
 
 
-  ### */
+  #### */
 
-   ### * @author Jhonatan
+   #### * @author Jhonatan
 
-   ###*/
+   ####*/
 
 
 
-  ### /**
+  #### /**
    
-  ### * @generated
+  #### * @generated
     
 
-   ### */
+   #### */
    
    
+Como grupo, en cuanto a esta métrica estamos de acuerdo en que si bien la documentación actual no está completa, nos comprometemos a realizar la debida documentación de cáda desarrollo que hagamos en el proyecto de ahora en adelante.
    
    
+   ## Lines of code: 
+   
+
+   
+   ![alt text](http://s29.postimg.org/cxsopu97r/Screen_Shot_2015_08_29_at_9_35_45_AM.png "Logo Title Text 1")
    
    
    
