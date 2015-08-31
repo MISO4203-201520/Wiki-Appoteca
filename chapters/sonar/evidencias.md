@@ -66,6 +66,10 @@ Accessors: Número total de métodos get y set utilizados en el proyecto, en tot
 
 ##Technical debt:
   ![alt text](http://s29.postimg.org/zcad62bzb/Screen_Shot_2015_08_29_at_10_06_07_AM.png "Logo Title Text 1")
+   se refiere al esfuerzo para arreglar todos los problemas en el código fuente. Hay muchas causas que aumentan la deuda técnica, entre esas está el afán, la presión, falta de conocimiento, falta de documentación, falta de buenas prácticas, falta de pruebas unitarias, etc. Para calcular la deuda técnica se basa principalmente en código duplicado, pruebas unitarias con errores, falta de pruebas unitarias, falta de documentación del código. En El caso AppMarketPlace la deuda técnica es de 1 día, lo cual nos dice que hay que pagar un total de 1 día para arreglar los problemas y errores en la aplicación (web y backend). Aquí hay un factor interesante, ya que dependiendo del tamaño del proyecto se puede saber si hay muchos problemas o no, es decir si el proyecto es pequeño y la deuda técnica es de 1 día o si el proyecto es grande y la deuda técnica es igual, hay una gran diferencia en ambos proyectos en cuanto al grado de diferencia de la deuda técnica, esta métrica la veremos a continuación.
+
+Technical debt ratio: El valor de esta métrica depende del tamaño del proyecto y dependiendo de esta métrica se obtiene la calificación del código que va desde A que es muy bueno hasta E que es la peor calificación. En AppMarketPlace la proporción de deuda técnica es de 0.8 % lo cual nos da a entender que si bien hay que tomarse 1 día para arreglar los problemas en el código, no hay tantos problemas y no es muy alta esta métrica como para alarmarse, con el estado del código como nos fue entregado, podemos empezar a agregar nuevas funcionalidades sin preocuparnos del código que ya tenemos, ya que se encuentra en buen estado y cuenta con buenas prácticas de programación.
+
   
 
    
