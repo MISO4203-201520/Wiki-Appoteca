@@ -70,6 +70,11 @@ Accessors: Número total de métodos get y set utilizados en el proyecto, en tot
 
 Technical debt ratio: El valor de esta métrica depende del tamaño del proyecto y dependiendo de esta métrica se obtiene la calificación del código que va desde A que es muy bueno hasta E que es la peor calificación. En AppMarketPlace la proporción de deuda técnica es de 0.8 % lo cual nos da a entender que si bien hay que tomarse 1 día para arreglar los problemas en el código, no hay tantos problemas y no es muy alta esta métrica como para alarmarse, con el estado del código como nos fue entregado, podemos empezar a agregar nuevas funcionalidades sin preocuparnos del código que ya tenemos, ya que se encuentra en buen estado y cuenta con buenas prácticas de programación.
 
+##Issues: 
+
+Al mirar los issues del proyecto en SonarQube, se tienen en cuenta los bugs que pueden impactar el comportamiento de todo el sistema en términos de desempeño, bugs de seguridad, problemas de duplicación de código, parámetros que no se utilizan y están definidos, etc. En AppMarketPlace, hay un total de 77 issues en donde hay 6 que son críticos, 64 importantes, 0 blocker y 14 menores. Mirando estos datos de issues, hay un aspecto positivo y es que no hay ningún issue de tipo blocker que son los bugs con mayor probabilidad a hacer fallar el programa, por este lado estamos tranquilos. Tan sólo hay 6 issues críticos , estos tienen una probabilidad baja de afectar el comportamiento del sistema, igualmente hay que revisar estos issues  estos issues son de manejo de excepciones en java ya que en algún evento podrían afectar la experiencia de los usuarios del AppMarketplace. Un aspecto importante a tener en cuenta es el que hay 64 issues de tipo importante, estos no afectan el rendimiento del sistema, pero si impactan la productividad de los desarrolladores que trabajen sobre este código, incluye aspectos duplicados, parámetros no utilizados, y código sin pruebas unitarias. En este aspecto hay que revisar si es posible hacer una revisión al código y hacer un refactoring para reducir este tipo de issues. 	
+
+
   
 
    
