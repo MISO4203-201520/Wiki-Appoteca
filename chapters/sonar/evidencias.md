@@ -62,8 +62,11 @@ Accessors: Número total de métodos get y set utilizados en el proyecto, en tot
 ##Complexity: 
   ![alt text](http://s29.postimg.org/a2fliz57r/Screen_Shot_2015_08_29_at_9_50_38_AM.png "Logo Title Text 1")
   
-  
+  Esta métrica se refiere a la complejidad ciclomática del código. Nos da  una visión de la complejidad de un programa. Esta métrica muestra el número de pruebas a realizar para asegurar que se ejecuta una sentencia al menos una vez. Como podemos ver, la complejidad es de 327 lo cual nos dice que el todo el proyecto tanto el web como el backend no tienen mucha complejidad y los algoritmos se encuentran bien implementados y son óptimos. 
 
+##Technical debt:
+  ![alt text](http://s29.postimg.org/zcad62bzb/Screen_Shot_2015_08_29_at_10_06_07_AM.png "Logo Title Text 1")
+  
 
    
    
