@@ -55,3 +55,5 @@ En mutuo acuerdo entre los miembros del equipo se definio que para el primer cic
 * Andrés Esguerra: Ofrecer la posibilidad de agregar descuentos.
 
 Para el caso del requerimiento Ofrecer el rol de administrador del servicio, se definico que en caso que algún miembro tuviera tiempo suficiente al finalizar el ciclo y este se ofreciera voluntariamente, asumiera su desarrollo.
+
+Posterior al desarrollo de un requerimiento, cada miembro procurara comunicar al resto del equipo como está organizada la lógica y el código que respalda la nueva funcionalidad.
