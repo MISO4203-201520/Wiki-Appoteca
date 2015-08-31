@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * Organización de equipo
+   * [Organización de equipo](chapters/organizacion_de_equipo.md)
 * [Requerimientos](chapters/requerimientos.md)
 * [Análisis de código](chapters/analisis_de_codigo.md)
    * [Evidencias](chapters/sonar/evidencias.md)
