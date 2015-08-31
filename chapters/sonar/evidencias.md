@@ -57,6 +57,7 @@ Accessors: Número total de métodos get y set utilizados en el proyecto, en tot
 ##Duplications:
    ![alt text](http://s29.postimg.org/nuu0elvzb/Screen_Shot_2015_08_29_at_9_41_42_AM.png "Logo Title Text 1")
 
+ Se refiere al número total de grupos de código repetidos, para que un grupo de código se considere como duplicado debe haber al menos 10 líneas de código sucesivas y repetidas. La indexación y los espacios son ignorados por lo que en un proyecto puede tener bastantes líneas duplicadas. En AppMarketplace hay un 13.9 % de líneas de código duplicadas que representan un total de 456 líneas de código separado en 14 grupos y 10 archivos. Esta métrica nos dice que hay un buen número de código repetido en este proyecto, esto pertenece a código generado por lo que no hay necesidad de hacer cambios en el código y podemos tomarlo como punto de partida a nuestros desarrollos posteriores. 
 
 
 
