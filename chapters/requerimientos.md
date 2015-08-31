@@ -9,10 +9,10 @@ A continuación se puede encontrar el listado de requerimientos de la aplicació
 | R4 | El sistema debe ofrecer al comprador la posibilidad de registrar preguntas sobre un producto de un proveedor específico y notificar al proveedor de la existencia de la pregunta. |
 | R5 | El sistema debe ofrecer al comprador la posibilidad de realizar una búsqueda sobre el catálogo de productos que retorne el producto más barato de un proveedor dado o el proveedor que ofrece el producto más barato de un tipo de producto dado. |
 | R6 | El sistema debe ofrecer al proveedor la posibilidad de agregar un descuento especial a alguno de sus productos. Esta información debe desplegarse en el catálogo. |
-| R7 | El sistema debe permitir agregar aplicaciones a un desarrollador con el proposito que pueda venderlas. |
-| R8 | El sistema debe permitir a un desarrollador agregar videos, textos e imagenes relacionadas a la aplicación para que pueda explicar las funcionalidades que ofrece. |
+| R7 | El sistema debe permitir agregar aplicaciones a un desarrollador con el propósito que pueda venderlas. |
+| R8 | El sistema debe permitir a un desarrollador agregar videos, textos e imágenes relacionadas a la aplicación para que pueda explicar las funcionalidades que ofrece. |
 | R9 | El sistema debe ofrecer una galeria virtual para que el comprador pueda apreciar las aplicaciones que desea comprar. |
-| R10 | El sistema debe permitir filtrar las aplicaciones presentes en la galeria por categoría de manera que el comprador pueda encontrar de forma más facíl la aplicación que desea. |
+| R10 | El sistema debe permitir filtrar las aplicaciones presentes en la galería por categoría de manera que el comprador pueda encontrar de forma más facíl la aplicación que desea. |
 | R11 | El sistema debe permitir al comprador compartir en redes sociales las aplicaciones de su gusto, para que otras personas puedan ver la oferta fuera de la plataforma. |
 | R12 | El sistema debe permitir a un comprador calificar con un número de estrellas y un comentario una aplicación comprado. |
 | R13 | El sistema debe alertar a los compradores sobre las nuevas versiones de sus aplicaciones por medio de correo electrónico . |
@@ -22,8 +22,8 @@ A continuación se puede encontrar el listado de requerimientos de la aplicació
 | R17 | El sistema debe ofrecerle al desarrollador una página para llevar el control de venta de sus aplicaciones. En esta página se deben presentar las últimas ventas realizadas, los últimos comentarios, los últimos bugs reportados y debe permitir generar reportes de ventas de sus aplicaciones. |
 | R18 | El sistema debe ofrecerle al desarrollador un página de perfil donde se relacione su información como proveedor y las aplicaciones que ofrece. |
 | R19 | El sistema debe ofrecerle al comprador poder acceder a un dashboard donde se pueda apreciar su información, las aplicaciones compradas y el historial de compras en el sistema. |
-| R20 | El sistema debe permitir al comprador generar informes de sus compras para que pueda llevar un control de las aplicaciones compradas en un periodo de tiempo especifico. |
-| R21 | El sistema debe permitir a un comprador buscar aplicaciones relacionadas a un tema en especifico que puede ser una palabra o serie de palabras. |
+| R20 | El sistema debe permitir al comprador generar informes de sus compras para que pueda llevar un control de las aplicaciones compradas en un periodo de tiempo específico. |
+| R21 | El sistema debe permitir a un comprador buscar aplicaciones relacionadas a un tema en específico que puede ser una palabra o serie de palabras. |
 | R22 | El sistema debe mostrarle al comprador las aplicaciones más recomendadas basado en sus anteriores compras, los comentarios realizados y sus busquedas anteriores. |
 | R23 | El sistema debe comunicarse con un proveedor de pagos para que el usuario pueda realizar sus compras de manera segura y posteriormente se comunique al sistema si la compra fue exitosa o no. |
 | R24 | El sistema debe confirmar por medio de correo electrónico la correcta compra de alguna aplicación al comprador. |
