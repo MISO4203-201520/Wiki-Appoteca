@@ -15,6 +15,7 @@ A continuación se presenta las reglas básicas definidas por el equipo para lle
 * Se utilizará una carpeta en Google Drive como el repositorio de archivos del proyecto, así como repositorio de archivos de planeación y capacitación.
 * Se utilizará como canal principal de comunicación un grupo en Whatsapp.
 * La organización de tareas del equipo para cada semana se realizará principalmente los días martes en las horas posteriores a la clase.
+* Durante el transcurso de la semana se definira a través de las reuniones pactadas un cronograma de actividades con sus respectivos responsables, esto para que las tareas sean ejecutadas de manera organizada y se pueda hacer un mejor seguimiento de tareas en el equipo por parte del Líder de equipo.
 * El grupo tendra como mínimo una reunión virtual a la semana los días sabados en las horas de la noche; para comunicar el avance de tareas, así como los problemas presentados.
 * Para las reuniones virtuales el grupo hará uso de las herramientas Google hangout, Skype, Adobe Connect.
 * En caso que un miembro del grupo presente dudas técnicas o de codificación durante la semana, deberá comunicar al equipo y organizar una reunión con un miembro que lo pueda apoyar.
@@ -27,6 +28,8 @@ A continuación se presenta las reglas básicas definidas por el equipo para lle
 * En la rama master solo se subirán los cambios que estén aprobados por todos los integrantes del grupo, al final del ciclo.
 * Todo el código desarrollado seguira como principio estar escrito en Ingles y llevar el estilo de escritura CamelCase.
 * El grupo se compromete a presentar pruebas unitarias en el código que será subido a la rama Master.
+* Todos los commit que sean subidos a GitHub deben compilar y deben funcionar correctamente en el entorno local.
+* Se debe asegurar la calidad del código a través de Sonar, por lo que es deber del equipo conocer y entender las reglas de calidad que se validan en la herramienta para poder codificar de manera que no se aumente la deuda técnica.
 
 ##Riesgos
 
