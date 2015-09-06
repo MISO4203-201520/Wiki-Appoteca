@@ -55,6 +55,9 @@ El resultado es el siguiente:
 | R22 | El sistema debe mostrarle al comprador las aplicaciones más recomendadas basado en sus anteriores compras, los comentarios realizados y sus busquedas anteriores. |
 
 ###Otros requerimientos
+
+Los siguientes requerimientos los consideramos como requerimientos de dificil cumplimiento en los ciclos de desarrollo definidos. Consideramos que pueden ser asumidos en ciclos posteriores.
+
 | Requerimiento | Descripción |
 | :-----------: | ----------- |
 | R1 | El sistema debe ofrecer al comprador la opción de pagar la compra y seleccionar los medios de pago de la misma. |
