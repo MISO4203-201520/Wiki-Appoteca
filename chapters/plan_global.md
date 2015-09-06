@@ -60,6 +60,8 @@ Los siguientes requerimientos los consideramos como requerimientos de dificil cu
 
 | Requerimiento | Descripción |
 | :-----------: | ----------- |
+| R23 | El sistema debe comunicarse con un proveedor de pagos para que el usuario pueda realizar sus compras de manera segura y posteriormente se comunique al sistema si la compra fue exitosa o no. |
+
 | R1 | El sistema debe ofrecer al comprador la opción de pagar la compra y seleccionar los medios de pago de la misma. |
 | R2 | El sistema debe ofrecer al comprador la posibilidad de agregar comentarios sobre un producto específico. |
 | R3 | El sistema debe ofrecer al usuario con el rol de administrador el servicio de ver los usuarios registrados en la aplicación y sus roles. |
@@ -82,7 +84,7 @@ Los siguientes requerimientos los consideramos como requerimientos de dificil cu
 | R20 | El sistema debe permitir al comprador generar informes de sus compras para que pueda llevar un control de las aplicaciones compradas en un periodo de tiempo específico. |
 | R21 | El sistema debe permitir a un comprador buscar aplicaciones relacionadas a un tema en específico que puede ser una palabra o serie de palabras. |
 | R22 | El sistema debe mostrarle al comprador las aplicaciones más recomendadas basado en sus anteriores compras, los comentarios realizados y sus busquedas anteriores. |
-| R23 | El sistema debe comunicarse con un proveedor de pagos para que el usuario pueda realizar sus compras de manera segura y posteriormente se comunique al sistema si la compra fue exitosa o no. |
+
 | R24 | El sistema debe confirmar por medio de correo electrónico la correcta compra de alguna aplicación al comprador. |
 | R25 | El sistema debe permitir a los compradores posterior a una compra, calificar a los desarrolladores de manera que otros usuarios puedan utilizar esos comentarios como insumo en su proceso de decisión. |
 | R26 | El sistema debe permitir al administrador del sistema bloquear las cuentas de usuario de un comprador o desarrollador si lo encuentra pertinente. |
