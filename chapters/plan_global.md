@@ -62,8 +62,10 @@ Los siguientes requerimientos los consideramos como requerimientos de difícil c
 | :-----------: | ----------- |
 | R23 | El sistema debe comunicarse con un proveedor de pagos para que el usuario pueda realizar sus compras de manera segura y posteriormente se comunique al sistema si la compra fue exitosa o no. |
 
-Por otro lado el grupo de trabajo considera que las siguientes historias ya están cubiertan por el desarrollo incial entregado.
+Por otro lado, el grupo de trabajo considera que las siguientes historias ya están cubiertan por el desarrollo incial entregado.
 
+| Requerimiento | Descripción |
+| :-----------: | ----------- |
 | R7 | El sistema debe permitir agregar aplicaciones a un desarrollador con el propósito que pueda venderlas. |
 | R9 | El sistema debe ofrecer una galeria virtual para que el comprador pueda apreciar las aplicaciones que desea comprar. |
 | R14 | El sistema debe permitir al desarrollador modificar las características de una aplicación de manera que pueda tener actualizada la información de una aplicación. |
