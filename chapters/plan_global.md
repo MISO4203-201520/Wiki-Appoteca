@@ -6,3 +6,5 @@ En decisión conjunta con el equipo de desarrollo, distribuimos los requerimient
 * cuales resultan de mayor dificultad para el equipo en el proceso de aprendizaje.
 * cuales se tienen más información y claridad.
 
+El resultado es el siguiente:
+
