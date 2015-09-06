@@ -10,6 +10,8 @@ El resultado es el siguiente:
 
 ###Ciclo 1
 
+####25 de Agosto - 8 de Septiembre
+
 | Requerimiento | Descripción |
 | :-----------: | ----------- |
 | R1 | El sistema debe ofrecer al comprador la opción de pagar la compra y seleccionar los medios de pago de la misma. |
@@ -21,6 +23,8 @@ El resultado es el siguiente:
 
 
 ###Ciclo 2
+
+####8 de Septiembre - 29 de Septiembre
 
 | Requerimiento | Descripción |
 | :-----------: | ----------- |
@@ -34,6 +38,8 @@ El resultado es el siguiente:
 
 ###Ciclo 3
 
+#### 29 de Septiembre - 20 de Octubre
+
 | Requerimiento | Descripción |
 | :-----------: | ----------- |
 | R8 | El sistema debe permitir a un desarrollador agregar videos, textos e imágenes relacionadas a la aplicación para que pueda explicar las funcionalidades que ofrece. |
@@ -44,6 +50,8 @@ El resultado es el siguiente:
 | R27 | El sistema debe permitir al administador eliminar mensajes ofensivos del sistema y deshabilitar aplicaciones que se consideren inseguras para el comprador. |
 
 ###Ciclo 4
+
+####20 de Octubre - 10 de Noviembre
 
 | Requerimiento | Descripción |
 | :-----------: | ----------- |
