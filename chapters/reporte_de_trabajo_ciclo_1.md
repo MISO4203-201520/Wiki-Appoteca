@@ -62,6 +62,11 @@ Se resalta los siguientes puntos en la forma en que trabajo el equipo.
 * No todo el equipo solicito ayuda en el proceso de desarrollo creyendo que podrían manejarlo por su parte. Esto impacto el tiempo de entrega impidiendo cumplir en las fechas esperadas por el equipo.
 * Se subestimaron algunas tareas y al final el tiempo no alcanzo para finalizarlas de la mejor manera.
 * Hubo reglas que se tomarón en el equipo que por diversos razones al final no se mantuvieron fijas para todos.
+* Hubo dudas en los requerimientos por parte de miembros del equipo que no se socializarón.
 
 #### ¿Qué hacer para mejorar?: 
 
+* Manejar reuniones de requerimientos antes de empezar el ciclo.
+* Llevar un control de tareas más pequeñas a las que se le puedan hacer seguimiento.
+* Comprometernos como equipo a llevar todas las dudas posibles a las reuniones.
+* En caso que se requiera hacer una jornada de programación presencial para afinar detalles y cumplir requerimientos a tiempo.
