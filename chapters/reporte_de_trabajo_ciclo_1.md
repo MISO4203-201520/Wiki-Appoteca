@@ -9,7 +9,7 @@ No tener el entendimiento necesario sobre la arquitectura y las tecnologías usa
 * Aunque el grupo se comprometio con la autocapacitación y se manejo con el lider técnico, miembros del grupo no cumplieron con la entrega de los requerimientos en un 100%. 
 * Pese a la capacitación algunos miembros aún presentaban dudas en el desarrollo y no solicitaron apoyo a tiempo.
 
-No tener un entendimeinto claro de los requerimientos:**Riesgo materializado**
+No tener un entendimeinto claro de los requerimientos: **Riesgo materializado**
 * Pese a que se definieron espacios para hablar de los requerimientos algunos miembros del grupo tuvieron errores en la implementación
 Realizar publicaciones en el foro con las dudas y consultas que tengamos.
 Discutir con todo el equipo los requerimientos por desarrollar y dejar claridad de su alcance.
