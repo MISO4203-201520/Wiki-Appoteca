@@ -22,14 +22,14 @@ Después de analizar los riesgos iniciales del proyecto, en mutuo acuerdo con el
 
 En mutuo acuerdo entre los miembros del equipo se definio que para el primer ciclo el desarrollo de los requerimientos iniciales, sería de la siguiente manera:
 
-* Andrés Rojas: Opción de pagar la compra
-* Iván García: Agregar comentarios en los productos
-* Cesar Forero :  Registrar preguntas de un producto específico
-* Andrés De Castro: Realizar búsqueda del producto más barato
-* Andrés Esguerra: Ofrecer la posibilidad de agregar descuentos.
+* **Andrés Rojas**: Opción de pagar la compra
+* **Iván García**: Agregar comentarios en los productos
+* **César Forero** :  Registrar preguntas de un producto específico
+* **Andrés De Castro**: Realizar búsqueda del producto más barato
+* **Andrés Esguerra**: Ofrecer la posibilidad de agregar descuentos.
 
 Para el caso del requerimiento Ofrecer el rol de administrador del servicio, se definió que en caso que algún miembro tuviera tiempo suficiente al finalizar el ciclo y este se ofreciera voluntariamente, asumiera su desarrollo.
 
-Posterior al desarrollo de un requerimiento, cada miembro procurara comunicar al resto del equipo como está organizada la lógica y el código que respalda la nueva funcionalidad.
+Posterior al desarrollo de un requerimiento, cada miembro procurará comunicar al resto del equipo como está organizada la lógica y el código que respalda la nueva funcionalidad.
 
 Si deseas conocer como está distribuido a futuro los requerimientos posteriores, te invitamos a leer la sección Plan Global de la sección Requerimientos.
