@@ -2,6 +2,11 @@
 
 A continuación presentamos un análisis del trabajo realizado en el primer ciclo de desarrollo. En este presentamos las cosas que salieron bien (Pulgar arriba) y las cosas que se pueden mejorar en este proceso.
 
+
+## Manejo de riesgos
+
+
+
 ##Manejo de tareas
 
 #### Pulgar arriba: 
