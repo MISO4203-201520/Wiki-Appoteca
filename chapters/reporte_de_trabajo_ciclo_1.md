@@ -28,4 +28,14 @@ Las tareas con los tiempos fueron:
 
 ##Requerimientos
 
-De los 5 requerimientos asignados para este primer ciclo el grupo solo cumplío a cabalidad 3, por lo que mantenemos deuda técnica sobre esos requerimientos.
+De los 5 requerimientos asignados para este primer ciclo el grupo solo cumplío a cabalidad 3, por lo que mantenemos deuda técnica sobre esos 2 requerimientos faltantes.
+
+* Andrés Rojas: Opción de pagar la compra **Completada**
+* Iván García: Agregar comentarios en los productos **Completada**
+* César Forero : Registrar preguntas de un producto específico **Completada**
+* Andrés De Castro: Realizar búsqueda del producto más barato **Incompletada**
+* Andrés Esguerra: Ofrecer la posibilidad de agregar descuentos **InCompletada**
+
+##Impacto en calidad de código
+
+##Trabajo en equipo
