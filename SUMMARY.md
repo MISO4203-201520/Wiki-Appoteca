@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
    * [Organización de equipo](chapters/organizacion_de_equipo.md)
-   * [Ciclo1](chapters/ciclo1.md)
+* [Ciclo1](chapters/ciclo1.md)
 * [Requerimientos](chapters/requerimientos.md)
    * [Plan Global](chapters/plan_global.md)
 * [Análisis de código](chapters/analisis_de_codigo.md)
