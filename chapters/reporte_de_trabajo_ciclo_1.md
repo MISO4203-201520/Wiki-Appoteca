@@ -5,15 +5,13 @@ A continuación presentamos un análisis del trabajo realizado en el primer cicl
 
 ## Manejo de riesgos
 
-No tener el entendimiento necesario sobre la arquitectura y las tecnologías usadas en el proyecto: **Riesgo materializado**
-* Aunque el grupo se comprometio con la autocapacitación y se manejo con el lider técnico, miembros del grupo no cumplieron con la entrega de los requerimientos en un 100%. 
-* Pese a la capacitación algunos miembros aún presentaban dudas en el desarrollo y no solicitaron apoyo a tiempo.
-
-No tener un entendimeinto claro de los requerimientos: **Riesgo materializado**
-* Pese a que se definieron espacios para hablar de los requerimientos algunos miembros del grupo tuvieron errores en la implementación.
-
-No trabajar de forma organizada y coordinada:
-* Se mantuvo un documento de tareas para llevar el control y en las reuniones se veia el avance de las tareas.
+1. No tener el entendimiento necesario sobre la arquitectura y las tecnologías usadas en el proyecto: **Riesgo materializado**
+    * Aunque el grupo se comprometio con la autocapacitación y se manejo con el lider técnico, miembros del grupo no cumplieron con la entrega de los requerimientos en un 100%. 
+    * Pese a la capacitación algunos miembros aún presentaban dudas en el desarrollo y no solicitaron apoyo a tiempo.
+2. No tener un entendimeinto claro de los requerimientos: **Riesgo materializado**
+    * Pese a que se definieron espacios para hablar de los requerimientos algunos miembros del grupo tuvieron errores en la implementación.
+3. No trabajar de forma organizada y coordinada:
+    * Se mantuvo un documento de tareas para llevar el control y en las reuniones se veia el avance de las tareas.
 
 
 ##Manejo de tareas
