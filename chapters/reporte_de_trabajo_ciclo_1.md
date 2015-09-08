@@ -39,3 +39,29 @@ De los 5 requerimientos asignados para este primer ciclo el grupo solo cumplío 
 ##Impacto en calidad de código
 
 ##Trabajo en equipo
+
+Se resalta los siguientes puntos en la forma en que trabajo el equipo.
+
+* Se cumplieron con las reuniones y la forma de trabajar.
+* Hubo una buena comunicación entre los miembros del equipo y compromiso con las reuniones.
+* Miembros del equipo no pedian ayuda a tiempo aunque no tenía conocimiento de las herramientas y presentaban dudas.
+* Hubo puntos que no se respetaron de lo acordado por el grupo de trabajo, en especial de hacer push con funcionalidades sin funcionar.
+
+##Conclusión
+
+
+#### Pulgar arriba: 
+
+* Se ha promovida la participación de todo el equipo en las decisiones que deben tomarse como equipo.
+* Las herramientas definidas en un principio se han manejado de la forma esperada.
+* Se ha sentido el compromiso del equipo con las tareas asignadas.
+* Hubo disposición de los miembros del equipo para avanzar con los requerimientos y apoyar a los demás.
+
+#### Pulgar abajo: 
+
+* No todo el equipo solicito ayuda en el proceso de desarrollo creyendo que podrían manejarlo por su parte. Esto impacto el tiempo de entrega impidiendo cumplir en las fechas esperadas por el equipo.
+* Se subestimaron algunas tareas y al final el tiempo no alcanzo para finalizarlas de la mejor manera.
+* Hubo reglas que se tomarón en el equipo que por diversos razones al final no se mantuvieron fijas para todos.
+
+#### ¿Qué hacer para mejorar?: 
+
