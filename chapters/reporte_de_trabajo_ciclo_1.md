@@ -69,4 +69,4 @@ Se resalta los siguientes puntos en la forma en que trabajo el equipo.
 * Manejar reuniones de requerimientos antes de empezar el ciclo.
 * Llevar un control de tareas más pequeñas a las que se le puedan hacer seguimiento.
 * Comprometernos como equipo a llevar todas las dudas posibles a las reuniones.
-* En caso que se requiera hacer una jornada de programación presencial para afinar detalles y cumplir requerimientos a tiempo.
+* En caso que se requiera hacer una jornada de programación presencial para afinar detalles y cumplir requerimientos a tiempo. 
