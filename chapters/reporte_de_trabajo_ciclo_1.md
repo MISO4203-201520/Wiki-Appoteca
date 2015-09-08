@@ -10,38 +10,26 @@ No tener el entendimiento necesario sobre la arquitectura y las tecnologías usa
 * Pese a la capacitación algunos miembros aún presentaban dudas en el desarrollo y no solicitaron apoyo a tiempo.
 
 No tener un entendimeinto claro de los requerimientos: **Riesgo materializado**
-* Pese a que se definieron espacios para hablar de los requerimientos algunos miembros del grupo tuvieron errores en la implementación
-Realizar publicaciones en el foro con las dudas y consultas que tengamos.
-Discutir con todo el equipo los requerimientos por desarrollar y dejar claridad de su alcance.
-Recurrir directamente al StakeHolder las dudas que aún presentemos.
+* Pese a que se definieron espacios para hablar de los requerimientos algunos miembros del grupo tuvieron errores en la implementación.
+
 No trabajar de forma organizada y coordinada:
-Un integrante estará a cargo del seguimiento de la planeación
-Llevar un documento para tener conocimiento del avance del proyecto con: tarea, integrante, tiempo estimado y tiempo real.
+* Se mantuvo un documento de tareas para llevar el control y en las reuniones se veia el avance de las tareas.
 
 
 ##Manejo de tareas
 
-#### Pulgar arriba: 
+Se llevo tareas en el documento en drive para llevar un control de tiempo. Como parte de este proceso pudimos evidenciar como muchas de las tareas no fueron bien estimadas y devengaron de nosotros mucho más trabajo.
 
-* se manejo en mutuo acuerdo el manejo de las tareas donde cada persona definia que podría lograr con el conocimiento y tiempo que puede dedicar. 
+Otro punto importante es que en principio costo el manejo del documento y no llevamos un control de las primeras tareas realizadas como documentación.
 
-* Se cumplio con el manejo de un documento de tareas en drive, el grupo entendio su funcionamiento y se colocaron las tareas que se manejarian y se mantenia actualizado.
+Las tareas con los tiempos fueron: 
 
-### Cosas por mejorar: 
-
-* se subestimaron muchas tareas y al final el tiempo no alcanzo para finalizarlas de la mejor manera.
-
-* Tuvimos dificultades al inicio pues muchas tareas iniciales que no erán de desarrollo no se relacionaron, lo que no dejo ver el esfuerzo de cada uno.
+![](tiempos.PNG)
 
 ##Requerimientos
 
-#### Pulgar arriba: 
+De los 5 requerimientos asignados para este primer ciclo el grupo solo cumplio a cabalidad 3.
 
-* Hubo colaboración entre miembros del equipo para entender los requerimientos y como podrían ser asumidos en el desarrollo.
-
-#### Cosas por mejorar: 
-
-* No todo el equipo solicito ayuda en el proceso de desarrollo creyendo que podrían manejarlo por su parte. Esto impacto el tiempo de entrega impidiendo cumplir en las fechas esperadas por el equipo.
 
 ##Impacto en calidad de código
 
@@ -60,3 +48,23 @@ Llevar un documento para tener conocimiento del avance del proyecto con: tarea, 
 #### Cosas por mejorar: 
 
 * Miembros del equipo no pedian ayuda a tiempo aunque no tenía conocimiento de las herramientas y presentaban dudas.
+* 
+#### Pulgar arriba: 
+
+* se manejo en mutuo acuerdo el manejo de las tareas donde cada persona definia que podría lograr con el conocimiento y tiempo que puede dedicar. 
+
+* Se cumplio con el manejo de un documento de tareas en drive, el grupo entendio su funcionamiento y se colocaron las tareas que se manejarian y se mantenia actualizado.
+
+### Cosas por mejorar: 
+
+* se subestimaron muchas tareas y al final el tiempo no alcanzo para finalizarlas de la mejor manera.
+
+* Tuvimos dificultades al inicio pues muchas tareas iniciales que no erán de desarrollo no se relacionaron, lo que no dejo ver el esfuerzo de cada uno.
+* 
+#### Pulgar arriba: 
+
+* Hubo colaboración entre miembros del equipo para entender los requerimientos y como podrían ser asumidos en el desarrollo.
+
+#### Cosas por mejorar: 
+
+* No todo el equipo solicito ayuda en el proceso de desarrollo creyendo que podrían manejarlo por su parte. Esto impacto el tiempo de entrega impidiendo cumplir en las fechas esperadas por el equipo.
