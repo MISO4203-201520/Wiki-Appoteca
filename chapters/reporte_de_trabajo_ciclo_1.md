@@ -2,6 +2,11 @@
 
 A continuación presentamos un análisis del trabajo realizado en el primer ciclo de desarrollo. En este presentamos las cosas que salieron bien (Pulgar arriba) y las cosas que se pueden mejorar en este proceso.
 
+## Balance de los objetivos del ciclo 1
+
+1. Lograr un entendimiento del enunciado del proyecto, la aplicación actual, y el trabajo faltante con respecto a las expectativas del cliente.
+    * La forma en que medimiamos si este objetivo se cumplia  era con la entrega de los requerimientos. Lamentablemente para este primer ciclo este objetivo no se alcanzo.
+
 
 ## Manejo de riesgos
 
@@ -18,7 +23,7 @@ A continuación presentamos un análisis del trabajo realizado en el primer cicl
 
 Se llevo tareas en el documento en drive para llevar un control de tiempo. Como parte de este proceso pudimos evidenciar como muchas de las tareas no fueron bien estimadas y devengaron de nosotros mucho más trabajo.
 
-Otro punto importante es que en principio costo el manejo del documento y no llevamos un control de las primeras tareas realizadas como documentación.
+Es importante resaltar que para algunos miembros del equipo les costo llevar un control de tareas en el documento, por lo que muchas tareas iniciales y posteriores no se presentan en el listado.
 
 Las tareas con los tiempos fueron: 
 
