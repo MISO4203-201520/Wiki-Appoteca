@@ -38,7 +38,7 @@ Para el primer ciclo tuvimos varios problemas como equipo y algunos riesgos se m
 
 
 **Como grupo**:
-* Realizar tres reuniones semanales, miercoles para determinar en que debemos trabajar y resolver dudas, sábado como reunión de seguimiento y lunes para ajustar cualquier detalle faltante sobre las entregas.
+* Realizar dos reuniones semanales, miercoles para determinar en que debemos trabajar y resolver dudas y sábado como reunión de seguimiento. Adicionalmente, se tendra reuniones extraordinarias los lunes para ajustar cualquier detalle faltante sobre las entregas.
 * El limite para hacer commit de funcionalidades a master en cada ciclo, es el domingo anterior al cierre del ciclo, solo en caso que haya algún problema del que todo el equipo tenga conocimiento y lo aprueben se dará un plazo hasta la reunión del lunes.
 * Cada miembro debe asumir mejor su rol y ser proactivo para asegurar la mejor calidad de lo que como equipo entregamos.
 * Cada miembro del grupo debe presentar su requerimiento funcionando al resto del grupo en cuanto lo tenga desarrollado. 
