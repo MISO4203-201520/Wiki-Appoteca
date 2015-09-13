@@ -3,6 +3,8 @@
 * [Introduction](README.md)
    * [Organización de equipo](chapters/organizacion_de_equipo.md)
 * [Plan Global](chapters/plan_global.md)
+* [Ciclo2](chapters/ciclo2.md)
+   * [Reporte de trabajo ciclo 2](chapters/reporte_de_trabajo_ciclo_2.md)
 * [Requerimientos](chapters/requerimientos.md)
    * [Ciclo2](chapters/ciclo2.md)
        * [Reporte de trabajo ciclo 2](chapters/reporte_de_trabajo_ciclo_2.md)
