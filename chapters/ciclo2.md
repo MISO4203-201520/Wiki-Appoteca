@@ -23,3 +23,10 @@
 * El limite para hacer commit de funcionalidades a master en cada ciclo, es el domingo anterior al cierre del ciclo, solo en caso que haya algún problema del que todo el equipo tenga conocimiento y lo aprueben se dará un plazo hasta la reunión del lunes.
 * Cada miembro debe asumir mejor su rol y ser proactivo para asegurar la mejor calidad de lo que como equipo entregamos.
 * Cada miembro del grupo debe presentar su requerimiento funcionando al resto del grupo en cuanto lo tenga desarrollado.
+* 
+
+##Requerimientos
+
+Para este ciclo, dado los limitantes que tuvimos como equipo en el aprendizaje de la tecnología y las herramientas en el primer ciclo y con el propósito de mitigar el riesgo de la tecnología tomamos como criterio las historias que resultarán de menor complejidad para el equipo. Estás son:
+
+/**Poner Historias**/
