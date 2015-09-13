@@ -5,6 +5,7 @@
 * [Requerimientos](chapters/requerimientos.md)
    * [Plan Global](chapters/plan_global.md)
    * [Ciclo2](chapters/ciclo2.md)
+       * Reporte de trabajo ciclo 2
    * [Ciclo1](chapters/ciclo1.md)
        * [Reporte de trabajo ciclo 1](chapters/reporte_de_trabajo_ciclo_1.md)
 * [Análisis de código](chapters/analisis_de_codigo.md)
