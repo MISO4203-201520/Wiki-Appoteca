@@ -8,7 +8,7 @@ En decisión conjunta con el equipo de desarrollo, distribuimos los requerimient
 
 El resultado es el siguiente:
 
-###Ciclo 1
+##Ciclo 1
 
 ####25 de Agosto - 8 de Septiembre
 
@@ -22,7 +22,7 @@ El resultado es el siguiente:
 | R6 | El sistema debe ofrecer al proveedor la posibilidad de agregar un descuento especial a alguno de sus productos. Esta información debe desplegarse en el catálogo. |
 
 
-###Ciclo 2
+##Ciclo 2
 
 ####8 de Septiembre - 29 de Septiembre
 
@@ -36,7 +36,7 @@ El resultado es el siguiente:
 | R28 | El sistema debe ofrecer un mecanismo seguro para la recuperación de contraseña de los usuarios por medio del uso del correo electrónico. |
 | R31 | El sistema debe permitir a un comprador encontrar información de valor sobre la aplicación, tal como; la cantidad de descargas de la aplicación, la calificación general, comentarios de otros compradores y aplicaciones similares. |
 
-###Ciclo 3
+##Ciclo 3
 
 #### 29 de Septiembre - 20 de Octubre
 
@@ -49,7 +49,7 @@ El resultado es el siguiente:
 | R20 | El sistema debe permitir al comprador generar informes de sus compras para que pueda llevar un control de las aplicaciones compradas en un periodo de tiempo específico. |
 | R27 | El sistema debe permitir al administador eliminar mensajes ofensivos del sistema y deshabilitar aplicaciones que se consideren inseguras para el comprador. |
 
-###Ciclo 4
+##Ciclo 4
 
 ####20 de Octubre - 10 de Noviembre
 
@@ -62,7 +62,7 @@ El resultado es el siguiente:
 | R21 | El sistema debe permitir a un comprador buscar aplicaciones relacionadas a un tema en específico que puede ser una palabra o serie de palabras. |
 | R22 | El sistema debe mostrarle al comprador las aplicaciones más recomendadas basado en sus anteriores compras, los comentarios realizados y sus busquedas anteriores. |
 
-###Otros requerimientos
+##Otros requerimientos
 
 Los siguientes requerimientos los consideramos como requerimientos de difícil cumplimiento en los ciclos de desarrollo definidos. Consideramos que pueden ser asumidos en ciclos posteriores.
 
