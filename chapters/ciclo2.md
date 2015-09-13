@@ -4,12 +4,16 @@
 
 ###Grupal
 
-* Revisar de forma crítica lo realizado en el ciclo en cuanto al producto y al proceso para definir mejoras en el ciclo 2
-* Producir un incremento funcional en la aplicación que incluya pruebas automatizadas
-* Estimar el tiempo de construcción de los artefactos del ciclo 2 del producto
-* Realizar una planeación semanal
-* Utilizar el concepto de valor ganado para hacer el seguimiento
+1. Revisar de forma crítica lo realizado en el ciclo anterior en cuanto al producto y al proceso, para definir mejoras en el ciclo 2
+2. Producir un incremento funcional en la aplicación que incluya pruebas automatizadas
+3. Estimar el tiempo de construcción de los artefactos del ciclo 2 del producto
+4. Realizar una planeación semanal
+5. Utilizar el concepto de valor ganado para hacer el seguimiento
 
+####Metricás de cumplimiento 
+
+1. La cantidad de problemas presentados sobre el ciclo 1 mitigados en el ciclo 2. 
+2. Cantidad de requerimientos realizados y porcentaje cubrimiento de pruebas sobre estos.
 
 ###Individual
 
