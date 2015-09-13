@@ -10,6 +10,7 @@
 * Realizar una planeación semanal
 * Utilizar el concepto de valor ganado para hacer el seguimiento
 
+
 ###Individual
 
 * Incluir en su plan de acción las acciones de mejora propuestas en la conclusión del ciclo 1
