@@ -10,21 +10,19 @@
 4. Realizar una planeación semanal
 5. Utilizar el concepto de valor ganado para hacer el seguimiento
 
-####Metricás de cumplimiento 
-
-1. La cantidad de problemas presentados sobre el ciclo 1 mitigados en el ciclo 2. 
-2. Cantidad de requerimientos realizados y porcentaje cubrimiento de pruebas sobre estos.
-3. Cantidad de requerimientos con estimación.
-4. Al menos una nueva tarea semanal por miembro del grupo.
-5. Pendiente.
-
 ###Individual
 
 1. Incluir en su plan de acción las acciones de mejora propuestas en la conclusión del ciclo 1
 2. Participar, colaborar, proponer, atender las reuniones, seguir cumpliendo las reglas de funcionamiento
 3. Entender los objetivos del ciclo 2
 
-####Metricás de cumplimiento
+###Metricás de cumplimiento 
+
+1. La cantidad de problemas presentados sobre el ciclo 1 mitigados en el ciclo 2. 
+2. Cantidad de requerimientos realizados y porcentaje cubrimiento de pruebas sobre estos.
+3. Cantidad de requerimientos con estimación.
+4. Al menos una nueva tarea semanal por miembro del grupo.
+5. Pendiente.
 
 
 ##Plan de Acción
