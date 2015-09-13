@@ -62,4 +62,3 @@ Se resalta los siguientes puntos en la forma en que trabajo el equipo.
 * Hubo reglas que se tomaron en el equipo que por diversas razones al final no se mantuvieron fijas para todos.
 * Hubo dudas en los requerimientos por parte de miembros del equipo que no se socializaron.
 
-#### Compromisos Visibles: 
