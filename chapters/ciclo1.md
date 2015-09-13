@@ -1,4 +1,4 @@
-##Primer Ciclo
+#Primer Ciclo
 
 Para el primer ciclo de desarrollo el grupo analizó los que se consideraron los riesgos iniciales y los requerimientos que deberíamos cumplir.
 
