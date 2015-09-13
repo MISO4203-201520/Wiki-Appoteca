@@ -10,6 +10,8 @@
 
 ##Plan de Acción
 
+Para el primer ciclo tuvimos varios problemas como equipo y algunos riesgos se materializarpoon, dado estás fallas definimos los siguientes compromisos individuales y como grupo. (Para ver los problemas presentados en el primer ciclo, revisar /Plan Global/Ciclo1/Reporte de trabajo ciclo 1).
+
 ###Compromisos Visibles
 
 **César Forero**: 
