@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
    * [Organización de equipo](chapters/organizacion_de_equipo.md)
+* [Plan Global](chapters/plan_global.md)
 * [Requerimientos](chapters/requerimientos.md)
    * [Plan Global](chapters/plan_global.md)
    * [Ciclo2](chapters/ciclo2.md)
