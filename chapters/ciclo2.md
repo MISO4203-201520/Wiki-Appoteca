@@ -8,6 +8,8 @@
 * Realizar una planeación semanal
 * Utilizar el concepto de valor ganado para hacer el seguimiento
 
+/COmo se mediran/
+
 ##Plan de Acción
 
 Para el primer ciclo tuvimos varios problemas como equipo y algunos riesgos se materializarpoon, dado estás fallas definimos los siguientes compromisos individuales y como grupo. (Para ver los problemas presentados en el primer ciclo, revisar /Plan Global/Ciclo1/Reporte de trabajo ciclo 1).
