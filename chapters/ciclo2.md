@@ -24,6 +24,26 @@
 4. Al menos una nueva tarea semanal por miembro del grupo.
 5. Pendiente.
 
+##Riesgos
+
+Para el ciclo dos de este proyecto, tomamos en consideración los mismos riesgos que se analizaron en el primer ciclo agregando otros que tienen que ver con la metodología empleada en este ciclo. Después de analizar los riesgos, tomamos los siguientes medidas con el propósito de mitigar su impacto en el proyecto.
+
+1. No tener el entendimiento necesario sobre la arquitectura y las tecnologías usadas en el proyecto: 
+    * Mantener una constante comunicación entre todo el equipo en caso de dudas de desarrollo.
+    * Tener definidos espacios de capacitación extra dada por el lider técnico, que pueden ser solicitados por los miembros del equipo.
+2. No tener un entendimeinto claro de los requerimientos:
+    * Realizar publicaciones en el foro con las dudas y consultas que tengamos.
+    * Discutir con todo el equipo los requerimientos por desarrollar y dejar claridad de su alcance.
+    * Recurrir directamente al StakeHolder las dudas que aún presentemos.
+3. No trabajar de forma organizada y coordinada:
+    * El equipo será autoorganizado y cada quien respondera por sus desarrollos, sin embargo, tendremos reuniones semanales de seguimiento para conocer como avanza el proyecto.
+    * Llevar un control de tareas en youtrack donde cada miembro se compromete a marcar los tiempos de desarollo y las tareas con las que avanza.
+4. Sobreestimar o desestimar requerimientos, lo que conlleve a tener un mayor o menor esfuerzo por parte de algunos miembros del equipo. 
+    * En mutuo acuerdo con el equipo determinaremos el peso de los requerimientos y si podemos cumplir con ellos en el ciclo. 
+    * Se dará requerimientos adicionales a los miembros que consideren que pueden desarrollar otro dado el tiempo de desaroollo que tienen y el avanace de los demás requerimientos a su cargo.
+5. No cumplir con la planeación global, que conlleve a un sobreesfuerzo en el tiempo limité de entrega de los requerimientos.
+     * se mantendra una constante comunicación del equipo en cuanto a las tareas que deberián estar desarrolladas en cada semana.
+     
 
 ##Plan de Acción
 
