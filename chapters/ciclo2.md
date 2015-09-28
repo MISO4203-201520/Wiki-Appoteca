@@ -70,4 +70,4 @@ Para este ciclo, dado los limitantes que tuvimos como equipo en el aprendizaje d
 | Número Requerimiento | Código en Youtrack | Descripción | Encargado |
 | :-----------: | :-----------: |----------- |----------- |
 | R3 | APP-8 | El sistema debe ofrecer al usuario con el rol de administrador el servicio de ver los usuarios registrados en la aplicación y sus roles. | César Forero |
-| R5 | APP-5 | Bloquear cuentas | César Forero |
+| R26 | APP-5 | El sistema debe permitir al administrador del sistema bloquear las cuentas de usuario de un comprador o desarrollador si lo encuentra pertinente. | César Forero |
