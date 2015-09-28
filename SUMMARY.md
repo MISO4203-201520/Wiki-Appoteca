@@ -9,7 +9,6 @@
    * [Ciclo2](chapters/ciclo2.md)
        * [Reporte de trabajo ciclo 2](chapters/reporte_de_trabajo_ciclo_2.md)
 * [Análisis de código](chapters/analisis_de_codigo.md)
-   * Ciclo1
    * [Evidencias](chapters/sonar/evidencias.md)
 * [Arquitectura](chapters/arquitectura.md)
    * [Vista de desarrollo](chapters/arq/development_view.md)
