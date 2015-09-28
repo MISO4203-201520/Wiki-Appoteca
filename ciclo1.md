@@ -7,5 +7,5 @@ Luego de finalizar el ciclo 1, dos hizo falta terminar con 2 requerimientos, de 
 Al finalizar el ciclo 1, hubo un total de 3.276 líneas de código, que a comparación con el proyecto como nos fue entregado, tiene 1157 más líneas de código. 
 
 
-
+##Duplications:
 ![alt text](http://postimg.org/image/l4o9bdpn1/ "Logo Title Text 1")
