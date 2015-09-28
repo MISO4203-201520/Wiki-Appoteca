@@ -69,5 +69,5 @@ Para este ciclo, dado los limitantes que tuvimos como equipo en el aprendizaje d
 
 | Número Requerimiento | Código en Youtrack | Descripción | Encargado |
 | :-----------: | :-----------: |----------- |----------- |
-| R5 | APP-8 | El  sistema debe ofrecer al comprador la opción de pagar la compra y seleccionar los medios de pago de la misma. | César Forero |
+| R3 | APP-8 | El sistema debe ofrecer al usuario con el rol de administrador el servicio de ver los usuarios registrados en la aplicación y sus roles. | César Forero |
 | R5 | APP-5 | Bloquear cuentas | César Forero |
