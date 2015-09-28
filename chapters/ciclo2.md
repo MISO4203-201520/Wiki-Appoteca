@@ -65,6 +65,9 @@ Para el primer ciclo tuvimos varios problemas como equipo y algunos riesgos se m
 
 ##Requerimientos
 
-Para este ciclo, dado los limitantes que tuvimos como equipo en el aprendizaje de la tecnología y las herramientas durante el primer ciclo y con el propósito de mitigar el riesgo de la tecnologí,  tomamos como criterio las historias que resultarán de menor complejidad para el equipo. Estás son:
+Para este ciclo, dado los limitantes que tuvimos como equipo en el aprendizaje de la tecnología y las herramientas durante el primer ciclo y con el propósito de mitigar el riesgo de la tecnología,  tomamos como criterio para la elección de rerquerimientos las historias que resultarán de menor complejidad para el equipo. Estás son:
 
-/**Poner Historias**/
+| Número Requerimiento | Código en Youtrack | Descripción | Encargado |
+| :-----------: | :-----------: |----------- |----------- |
+| R5 | APP-8 | El  sistema debe ofrecer al comprador la opción de pagar la compra y seleccionar los medios de pago de la misma. | César Forero |
+| R5 | APP-5 | Bloquear cuentas | César Forero |
