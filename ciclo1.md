@@ -8,7 +8,7 @@ Al finalizar el ciclo 1, hubo un total de 3.276 líneas de código, que a compar
 
 
 ##Duplications:
-![alt text](http://postimg.org/image/l4o9bdpn1/ "Logo Title Text 1")
+![alt text](http://s14.postimg.org/ta6b9jdw1/Screen_Shot_2015_09_27_at_10_56_23_PM.png "Logo Title Text 1")
 Como podemos ver, en este ciclo 1 el porcentaje de líneas de código duplicadas está en un 13.9 % igual a como nos fué entregado el proyecto. Adicionalmente, los bloques duplicados fueron 14, a lo largo de 10 archivos y en un total de 456 líneas de código de un total de 3276.
 
 
