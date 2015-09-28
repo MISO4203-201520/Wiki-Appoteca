@@ -16,4 +16,6 @@ Como podemos ver, en este ciclo 1 el porcentaje de líneas de código duplicadas
 ![alt text](http://postimg.org/image/49ruxrtcf/ "Logo Title Text 1")
 La complejidad aumentó en comparación con el proyecto como fué entregado. Como se puede observar, la deuda técnica es de 2 días y 7 horas que en comparación con el proyecto antes de empezar el ciclo 1 aumentó en 1 día y 7 horas.
 
-Por otro lado, la complejidad al finalizar el cico 1 fue de 634
+Por otro lado, la complejidad al finalizar el cico 1 fue de 634, la cual aumentó un total de 307.
+
+
