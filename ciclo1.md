@@ -2,7 +2,7 @@
 Luego de finalizar el ciclo 1, dos hizo falta terminar con 2 requerimientos, de igual forma se realizó el análisis respectivo del código desarrollado para esta entrega.
 
  ## Lines of code: 
-![alt text](http://s1.postimg.org/b9mzbnbcv/Screen_Shot_2015_09_27_at_10_56_08_PM.png/ "Logo Title Text 1")
+![alt text](http://s1.postimg.org/b9mzbnbcv/Screen_Shot_2015_09_27_at_10_56_08_PM.png "Logo Title Text 1")
 
 Al finalizar el ciclo 1, hubo un total de 3.276 líneas de código, que a comparación con el proyecto como nos fue entregado, tiene 1157 más líneas de código. 
 
