@@ -30,6 +30,8 @@ P3|700|38|740|38
 P4|1200|50|1400|120
 P6|829|37|1944|155
 
+En total nos tomo 2698 lineas de código que basado en la tabla 
+
 ##Estimación del ciclo 2
 |Front|Servicio|Back
 :--:|:--:|:--:
