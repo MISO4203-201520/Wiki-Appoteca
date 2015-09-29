@@ -70,6 +70,8 @@ Para el primer ciclo tuvimos varios problemas como equipo y algunos riesgos se m
 
 ##Requerimientos
 
+> Subir requerimientos faltantes 
+
 Para este ciclo, dado los limitantes que tuvimos como equipo en el aprendizaje de la tecnología y las herramientas durante el primer ciclo y con el propósito de mitigar el riesgo de la tecnología,  tomamos como criterio para la elección de rerquerimientos las historias que resultarán de menor complejidad para el equipo. Estás son:
 
 | Número Requerimiento | Código en Youtrack | Descripción | Encargado |
