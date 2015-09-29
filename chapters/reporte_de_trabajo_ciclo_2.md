@@ -23,11 +23,13 @@ A continuación presentamos un análisis del trabajo realizado en el primer cicl
 
 Se resalta los siguientes puntos en la forma en que trabajo el equipo.
 
-##Medidas para el siguiente ciclo
 
 ##Conclusión
 #### Pulgar arriba: 
 
 #### Pulgar abajo: 
+
+####Medidas para el siguiente ciclo
+
 
 
