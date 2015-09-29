@@ -51,7 +51,6 @@ Para el primer ciclo tuvimos varios problemas como equipo y algunos riesgos se m
 
 ###Compromisos Visibles
 
-> Subir compromisos faltantes
 
 **Andrés Esguerra**
 * Asumir el rol de líder de planeación y gestionar la herramienta Youtrack.
