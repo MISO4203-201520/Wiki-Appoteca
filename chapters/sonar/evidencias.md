@@ -33,7 +33,7 @@ Al finalizar el ciclo 2, tenemos un 7.9 % de código duplicado, este indicador r
 ##Technical debt:
   ![alt text](http://s12.postimg.org/b10jmmtul/Screen_Shot_2015_09_29_at_12_28_48_AM.png "Logo Title Text 1")
   
-La deuda tecnica fue uno de los ítems por los que más nos preocupamos en este ciclo, asignamos tareas para poder reducir este aspecto ya que en el ciclo anterior la aumentamos de manera significativa. Al finalizar el ciclo anterior contabamos con unaéc deuda técnica de  
+La deuda tecnica fue uno de los ítems por los que más nos preocupamos en este ciclo, asignamos tareas para poder reducir este aspecto ya que en el ciclo anterior la aumentamos de manera significativa. Al finalizar el ciclo anterior contabamos con una deuda técnica de 3 días la cual consideramos alta. En este ciclo tenemos una deuda técnica de 2 dias y 3 horas, logramos reducir esta deuda técnica casi por un día.
 
 ##Issues: 
 
