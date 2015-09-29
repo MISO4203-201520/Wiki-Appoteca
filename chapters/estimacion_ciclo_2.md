@@ -126,7 +126,7 @@ Para esta planeación definimos en grupo cuanto sería el porcentaje de esfuerzo
 
 ### Seguimiento
 
-Para el seguimiento del valor ganado dividimos el porcentaje de desarrollo de todos los requerimientos basado en el porcentaje definido en 
+Para el seguimiento del valor ganado dividimos el porcentaje de desarrollo de todos los requerimientos basado en el porcentaje definido en el punto "Estimación por requerimiento".
 
 Actividad||Costo|Valor Planeado|Sem1|Sem2|Sem3|Check
 :--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
