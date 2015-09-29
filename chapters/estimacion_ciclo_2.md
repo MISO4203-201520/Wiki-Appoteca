@@ -14,34 +14,7 @@ APP-4|M|P|M
 APP-7|M|P|P
 APP-6|P|P|P
 
-### Frontend
-Tamaño|Cantidad|Subtotal
-:--:|:--:|:--:
-P|2|160
-M|5|750
-G|0|0
-**Total**||910
-### Servicios
-Tamaño|Cantidad|Subtotal
-:--:|:--:|:--:
-P|7|350
-M|0|0
-G|0|0
-**Total**||350
-
-###Total
-Ciclo|LOC Front|Estimate Front|LOC Back|Estimate Back
-:--:|:--:|:--:|:--:|:--:
-2|910|40.22051888|2550|204.5505102
-
-### Backend
-Tamaño|Cantidad|Subtotal
-:--:|:--:|:--:
-P|6|1500
-M|2|700
-G|0|0
-**Total**||2200
-
+### Estimación por requerimiento
 |Front|Servicio|Back|Total|Porcentaje
 :--:|:--:|:--:|:--:
 APP-8|150|50|350|550|15.90%
@@ -53,6 +26,35 @@ APP-4|150|50|350|550|15.90%
 APP-7|150|50|250|450|13.01%
 APP-6|80|50|250|380|10.98%
 ||||3460|100.00%
+
+### Estimación por capa
+#### Frontend
+Tamaño|Cantidad|Subtotal
+:--:|:--:|:--:
+P|2|160
+M|5|750
+G|0|0
+**Total**||910
+#### Servicios
+Tamaño|Cantidad|Subtotal
+:--:|:--:|:--:
+P|7|350
+M|0|0
+G|0|0
+**Total**||350
+
+#### Backend
+Tamaño|Cantidad|Subtotal
+:--:|:--:|:--:
+P|6|1500
+M|2|700
+G|0|0
+**Total**||2200
+
+### Total
+Ciclo|LOC Front|Estimate Front|LOC Back|Estimate Back
+:--:|:--:|:--:|:--:|:--:
+2|910|40.22051888|2550|204.5505102
 
 ##Plan General del ciclo
 |Actividad| Costo| Valor Planeado| Sem1| Sem2| Sem3| Check|
