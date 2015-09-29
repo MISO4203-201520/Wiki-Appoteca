@@ -18,18 +18,16 @@ Functions: Hay un total de 500 funciones, en el ciclo anterior teníamos 211, po
 
 Classes: En este ciclo contamos con un total de 85 clases, 48 más que en el ciclo anterior.
 
-Accessors: 
-
 
 
 ##Duplications:
    ![alt text](http://s12.postimg.org/kgbtm3mhp/Screen_Shot_2015_09_29_at_12_28_37_AM.png "Logo Title Text 1")
-
+Al finalizar el ciclo 2, tenemos un 7.9 % de código duplicado, este indicador resulta interesante, ya que en este ciclo se redujo. En el ciclo anterior teníamos 13.9% de códugo duplicado, esta reducción de códugo duplicado se debe primero a que realizamos una tarea en este ciclo para reducir la deuda técnica del código y entre esas tareas estaba en hacer refactoring del codigo, por lo que se logró reducir el código duplicado.
  
 
 ##Complexity: 
   ![alt text](http://s12.postimg.org/oqqhhorkt/Screen_Shot_2015_09_29_at_12_28_43_AM.png "Logo Title Text 1")
-  
+  La complejidad en este ciclo fue de 797, en comparación con el ciclo anterior aumentó en 163, lo cual es razonable ya que se desarrollaron 2000 líneas de código en este ciclo.
 
 
 ##Technical debt:
