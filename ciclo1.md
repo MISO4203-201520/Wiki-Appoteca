@@ -14,7 +14,7 @@ Como podemos ver, en este ciclo 1 el porcentaje de líneas de código duplicadas
 
 
 ##Technical debt/Complexity
-![alt text](http://s23.postimg.org/ckodhj1yv/Screen_Shot_2015_09_29_at_10_44_08_AM.png "Logo Title Text 1")
+![alt text](http://s22.postimg.org/tnkkv2tfl/Screen_Shot_2015_09_29_at_10_44_08_AM.png "Logo Title Text 1")
 
 La complejidad aumentó en comparación con el proyecto como fué entregado. Como se puede observar, la deuda técnica es de 2 días y 7 horas que en comparación con el proyecto antes de empezar el ciclo 1 aumentó en 1 día y 7 horas.
 
