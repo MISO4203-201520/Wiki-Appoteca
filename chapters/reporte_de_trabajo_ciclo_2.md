@@ -20,7 +20,9 @@ A continuación presentamos un análisis del trabajo realizado en el primer cicl
 
 La deuda tecnica fue uno de los ítems por los que más nos preocupamos en este ciclo, asignamos tareas para poder reducir este aspecto ya que en el ciclo anterior la aumentamos de manera significativa. Al finalizar el ciclo anterior contabamos con una deuda técnica de 3 días la cual consideramos alta. En este ciclo tenemos una deuda técnica de 2 dias y 3 horas, logramos reducir esta deuda técnica casi por un día. 
 
-El número de líneas de código en este ciclo aumentó por 2.000 líneas de código ya que se implementaron los requerimientos que no terminamos el ciclo pasado más los requerimientos asignados para este ciclo, sin embargo la deuda técnica se redujo. De igual manera el código duplicado también se redujo de manera significativa debido al refactoring que hicimos en este ciclo. 
+El número de líneas de código en este ciclo aumentó por 2.000 líneas de código ya que se implementaron los requerimientos que no terminamos el ciclo pasado más los requerimientos asignados para este ciclo, sin embargo, la deuda técnica se redujo. De igual manera el código duplicado también se redujo de manera significativa debido al refactoring que hicimos en este ciclo. 
+
+Para ver en detalle el análisis en el impacto del código revisa "Análisis de código/Ciclo2".
 
 ##Trabajo en equipo
 
