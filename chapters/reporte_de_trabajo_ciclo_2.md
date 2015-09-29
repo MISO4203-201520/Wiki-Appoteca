@@ -1,6 +1,6 @@
 #Reporte de trabajo ciclo 2
 
-A continuación presentamos un análisis del trabajo realizado en el primer ciclo de desarrollo. En este presentamos las cosas que salieron bien (Pulgar arriba) y las cosas que se pueden mejorar en el proceso.
+A continuación presentamos un análisis del trabajo realizado en el segundo ciclo de desarrollo. En este presentamos las cosas que salieron bien (Pulgar arriba) y las cosas que se pueden mejorar en el proceso.
 
 ## Balance de los objetivos del ciclo
 
