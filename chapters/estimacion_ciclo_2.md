@@ -51,8 +51,8 @@ APP-6|P|P|P
 
 Con base en la clasificación anterior determinamos el esfuerzo en lineas de código que debiamos realizar para cumplir con cada requerimiento.
 
-|Front|Servicio|Back|Total|Porcentaje
-:--:|:--:|:--:|:--:
+|Front|Servicio|Back|Total Lineas de Código|Porcentaje
+:--:|:--:|:--:|:--:|:--:
 APP-8|150|50|350|550|15.90%
 APP-5|80|50|250|380|10.98%
 APP-2|150|50|250|450|13.01%
