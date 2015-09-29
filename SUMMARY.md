@@ -8,6 +8,7 @@
        * [Reporte de trabajo ciclo 1](chapters/reporte_de_trabajo_ciclo_1.md)
    * [Ciclo2](chapters/ciclo2.md)
        * [Reporte de trabajo ciclo 2](chapters/reporte_de_trabajo_ciclo_2.md)
+       * Estimación Ciclo 2
 * [Análisis de código](chapters/analisis_de_codigo.md)
    * [Ciclo1](ciclo1.md)
    * [Ciclo2](chapters/sonar/evidencias.md)
