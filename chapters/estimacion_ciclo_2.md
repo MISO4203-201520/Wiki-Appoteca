@@ -1,6 +1,31 @@
 #Estimación Ciclo 2
 
-##Estimación del ciclo anterior
+## Estimación Ciclo 1
+### Líneas de código
+R1|R2|R3|R4|R5|R6|Total
+:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Backend|858|132|543|268|85|1886
+Servicios|191|29|103|51|5|379
+Frontend|84|180|53|66|50|433
+Total|1133|341|699|385|140|2698
+
+### Horas
+R1|R2|R3|R4|R5|R6
+:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Backend|6|2|1|4.37|2.5|15.87
+Servicios|5|1|1|1.57|1|25.44
+Frontend|6|4.5|1|2.07|5|18.57
+Total|17|7.5|3|8.01|8.5|44.01
+
+## Históricos
+Proyecto|LOC Front|Time Front|LOC Back|Time Back
+:--:|:--:|:--:|:--:|:--:
+P2|280|14|250|29
+P1|530|25|500|39
+P5|600|25|680|45
+P3|700|38|740|38
+P4|1200|50|1400|120
+P6|829|37|1944|155
 
 ##Estimación del ciclo 2
 |Front|Servicio|Back
