@@ -4,6 +4,18 @@ A continuación presentamos un análisis del trabajo realizado en el segundo cic
 
 ## Balance de los objetivos del ciclo
 
+1. Revisar de forma crítica lo realizado en el ciclo anterior en cuanto al producto y al proceso, para definir mejoras en el ciclo 2
+    * El grupo cumplio con el arreglo de los issues del primer ciclo, desafortunadamente no se tomarón como prioridad lo que demando de algunos miembros del grupo realizar las tareas al final del ciclo al tiempo que los requerimientos. 
+2. Producir un incremento funcional en la aplicación que incluya pruebas automatizadas
+3. Estimar el tiempo de construcción de los artefactos del ciclo 2 del producto
+4. Realizar una planeación semanal
+5. Utilizar el concepto de valor ganado para hacer el seguimiento
+
+###Individual
+
+1. Incluir en su plan de acción las acciones de mejora propuestas en la conclusión del ciclo 1
+2. Participar, colaborar, proponer, atender las reuniones, seguir cumpliendo las reglas de funcionamiento
+3. Entender los objetivos del ciclo 2
 	
 ## Manejo de riesgos
 
