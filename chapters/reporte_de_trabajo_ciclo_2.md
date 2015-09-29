@@ -51,10 +51,14 @@ Se resalta los siguientes puntos en la forma en que trabajo el equipo.
 
 ## Conclusión
 #### Pulgar arriba:
+* Se cumplieron con todos los requerimientos y con los issues del ciclo anterior.
+* hubo una buena comunicación en el grupo lo que nos permitio salir a flote con respecto a dudas y problemas presentados.
 
 #### Pulgar abajo:
 
 #### Medidas para el siguiente ciclo
 
 * Llevar una mejor relación entre lo que esta en Youtrack y lo que manejamos en el excel de planeación.
-* Llevar un granularidad de tareas más pequeñas
+* Llevar un granularidad de tareas más pequeñas que nos permitan llevar un mejor control.
+* Delegar más tareas que impidan tener tiempo ocioso del equipo.
+* Generar un mejor compromiso con las reuniones de trabajo del equipo.
