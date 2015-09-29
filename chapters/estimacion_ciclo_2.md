@@ -2,7 +2,7 @@
 
 ##Estimación del ciclo anterior
 
-##Estimación de siguiente ciclo
+##Estimación del ciclo 2
 
 ##Plan General del ciclo
 
