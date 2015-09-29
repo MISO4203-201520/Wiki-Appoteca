@@ -14,6 +14,29 @@ APP-4|M|P|M
 APP-7|M|P|P
 APP-6|P|P|P
 
+### Frontend
+Tamaño|Cantidad|Subtotal
+:--:|:--:|:--:
+P|2|160
+M|5|750
+G|0|0
+**Total**||910
+### Servicios
+Tamaño|Cantidad|Subtotal
+:--:|:--:|:--:
+P|7|350
+M|0|0
+G|0|0
+**Total**||350
+
+### Backend
+Tamaño|Cantidad|Subtotal
+:--:|:--:|:--:
+P|6|1500
+M|2|700
+G|0|0
+**Total**||2200
+
 |Front|Servicio|Back|Total|Porcentaje
 :--:|:--:|:--:|:--:
 APP-8|150|50|350|550|15.90%
