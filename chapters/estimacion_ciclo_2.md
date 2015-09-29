@@ -1,6 +1,6 @@
 #Estimación Ciclo 2
 
-##Estimación del ciclo
+##Estimación del ciclo anterior
 
 ##Estimación de siguiente ciclo
 
