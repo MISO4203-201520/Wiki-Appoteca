@@ -33,4 +33,4 @@ A continuación se puede encontrar el listado de requerimientos de la aplicació
 | R28 | El sistema debe ofrecer un mecanismo seguro para la recuperación de contraseña de los usuarios por medio del uso del correo electrónico. |
 | R29 | El sistema debe permitir registrar usuarios con su información básica personal y asignarle permisos específicos |
 | R30 | El sistema debe permitir iniciar sesión a un usuario para acceder a sus funcionalidades |
-| R31 | El sistema debe permitir a un comprador encontrar información de valor sobre la aplicación, tal como; la cantidad de descargas de la aplicación, la calificación general, comentarios de otros compradores y aplicaciones similares. |
+| R31 | El sistema debe permitir a un comprador encontrar información de valor sobre la aplicación, tal como; la cantidad de descargas de la aplicación, la calificación general, comentarios de otros compradores. |
