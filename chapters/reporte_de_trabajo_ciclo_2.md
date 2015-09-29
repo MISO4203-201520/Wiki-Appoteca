@@ -57,5 +57,6 @@ Para ver en detalle el análisis en el impacto del código revisa "Análisis de 
 #### Medidas para mejorar en el siguiente ciclo
 
 * Dividir tareas de desarrollo en tareas más pequeñas que nos permitan tener un mejor control y seguimiento de las tareas.
-* Llevar una mejor relación en las tareas realizadas en youtrack y 
+* Llevar una mejor relación en las tareas realizadas en youtrack y las tareas en el excel de planeación.
+* Tomar como base otro criterio de selección de las tareas del ciclo para evitar tener tiempo ocioso en algunos miembros del equipo.
 
