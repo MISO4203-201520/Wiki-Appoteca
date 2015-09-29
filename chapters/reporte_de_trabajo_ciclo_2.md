@@ -19,8 +19,11 @@ A continuación presentamos un análisis del trabajo realizado en el segundo cic
 ### Individual
 
 1. Incluir en su plan de acción las acciones de mejora propuestas en la conclusión del ciclo 1
+    * Todos los miembros de grupo cumplieron con lo pactado en sus compromisos individuales.
 2. Participar, colaborar, proponer, atender las reuniones, seguir cumpliendo las reglas de funcionamiento
+    * Como grupo fallamos en el compromiso con las reuniones de seguimiento y planeación por lo que muchas de las tareas en el plan de valor ganado no reflejan el porcentaje que se requería.
 3. Entender los objetivos del ciclo 2
+    * Como equipo fallamos en llevar una mejor planeación en tareas más pequeñas.
 
 ## Manejo de riesgos
 
