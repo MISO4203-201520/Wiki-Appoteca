@@ -126,6 +126,8 @@ Para esta planeación definimos en grupo cuanto sería el porcentaje de esfuerzo
 
 ### Seguimiento
 
+Para el seguimiento del valor ganado dividimos el porcentaje de cada uno de los requerimientos 
+
 Actividad||Costo|Valor Planeado|Sem1|Sem2|Sem3|Check
 :--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
 **Lanzamiento**|Cada uno|5.4|4%|5.4|||5.4
