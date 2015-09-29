@@ -6,4 +6,4 @@
 
 ##Plan General del ciclo
 
-##Historias en Youtrack
+##Estimaciones en Youtrack
