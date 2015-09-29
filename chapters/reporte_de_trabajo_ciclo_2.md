@@ -23,7 +23,7 @@ A continuación presentamos un análisis del trabajo realizado en el segundo cic
 2. Participar, colaborar, proponer, atender las reuniones, seguir cumpliendo las reglas de funcionamiento
     * Como grupo fallamos en el compromiso con las reuniones de seguimiento y planeación por lo que muchas de las tareas en el plan de valor ganado no reflejan el porcentaje que se requería.
 3. Entender los objetivos del ciclo 2
-    * Como equipo fallamos en llevar una mejor planeación en tareas más pequeñas.
+    * Como equipo fallamos en llevar una mejor planeación en tareas más pequeñas y en el control y planeación de estás-
 
 ## Manejo de riesgos
 
