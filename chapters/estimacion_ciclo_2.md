@@ -1,7 +1,10 @@
 #Estimación Ciclo 2
 
 ## Estimación Ciclo 1
-### Líneas de código
+
+Con base en el código subido a youtrack 
+
+#### Líneas de código
 R1|R2|R3|R4|R5|R6|Total
 :--:|:--:|:--:|:--:|:--:|:--:|:--:
 Backend|858|132|543|268|85|1886
@@ -9,7 +12,7 @@ Servicios|191|29|103|51|5|379
 Frontend|84|180|53|66|50|433
 Total|1133|341|699|385|140|2698
 
-### Horas
+#### Horas
 R1|R2|R3|R4|R5|R6
 :--:|:--:|:--:|:--:|:--:|:--:|:--:
 Backend|6|2|1|4.37|2.5|15.87
