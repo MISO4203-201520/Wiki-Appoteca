@@ -86,3 +86,5 @@ Para este ciclo, dado los limitantes que tuvimos como equipo en el aprendizaje d
 | R11 | APP-2 | El sistema debe permitir al comprador compartir en redes sociales las aplicaciones de su gusto, para que otras personas puedan ver la oferta fuera de la plataforma. | Iván García|
 | R24 | APP-3 |El sistema debe confirmar por medio de correo electrónico la correcta compra de alguna aplicación al comprador. | Iván García|
 | R28 | APP-6 |El sistema debe ofrecer un mecanismo seguro para la recuperación de contraseña de los usuarios por medio del uso del correo electrónico.| Andrés De Castro|
+| R25 | APP-4 | El sistema debe permitir a los compradores posterior a una compra, calificar a los desarrolladores de manera que otros usuarios puedan utilizar esos comentarios como insumo en su proceso de decisión.| Andrés Esguerra|
+| R31 | APP-7 | El sistema debe permitir a un comprador encontrar información de valor sobre la aplicación, tal como; la cantidad de descargas de la aplicación, la calificación general, comentarios de otros compradores.| Andrés Esguerra|
