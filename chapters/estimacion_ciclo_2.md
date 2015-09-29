@@ -162,7 +162,7 @@ APP-6|Andrés De Castro|0.74|0.55%|||2|2
 
 ##Estimaciones en Youtrack
 
-A continuación, relacionamos las tareas que se encuentran en la cuenta de Youtrack.
+A continuación, relacionamos las tareas que se encuentran en la cuenta de Youtrack. En esta se presenta la columna de tiempo estimado y la de tiempo real.
 
 ISSUES , GROUP BY ASSIGNEE||TIME ESTIMATED|TIME SPENT
 :--:|:--:|:--:|:--:
