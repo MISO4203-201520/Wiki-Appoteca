@@ -162,26 +162,28 @@ APP-6|Andrés De Castro|0.74|0.55%|||2|2
 
 ##Estimaciones en Youtrack
 
+A continuación, relacionamos las tareas 
+
 ISSUES , GROUP BY ASSIGNEE||TIME ESTIMATED|TIME SPENT
 :--:|:--:|:--:|:--:
-CesarF||18h 8m|14h
+**CesarF**||18h 8m|14h
 APP-5|Bloquear cuentas|7h 25m|5h
 APP-8|Página administrador|10h 43m|9h
-Ing.acrm||11h|22h
+**Ing.acrm**||11h|22h
 APP-1|Filtrar aplicaciones por categoría|10h|10h
 APP-15|Filtro de tarjetas|1h|1h
 APP-17|Filtro por categorias en combobox|—|11h
-af.decastro879||11h|7h 47m
+**af.decastro879**||11h|7h 47m
 APP-12|Creacion de un servicio que permita cambiar la contraseña a partir de un token y a nueva contraseña.|50m|20m
 APP-13|Creación de la vista para el ingreso del correo electrónico del usuario que desea cambiar su contraseña.|3h|2h
 APP-11|Creación de un EndPoint para la validación de token de recuperación de contraseña|1h 30m|52m
 APP-14|Creación de una vista para ingresar la nueva contraseña del usuario.|3h|2h 30m
 APP-10|Envió de correo de recuperación de contraseña|1h|30m
 APP-9|Revisar la documentación de Stormpath para el cambio de contraseña|1h 40m|1h 35m
-ivanchemical||13h|13h
+**ivanchemical**||13h|13h
 APP-2|Compartir en redes sociales|11h|10h
 APP-3|Confirmar compra por email|2h|3h
-kaosterra||28h 28m|10h
+**kaosterra**||28h 28m|10h
 APP-4|Calificar aplicación|10h 43m|5h
 APP-7|Información de la aplicación|11h|3h
 APP-18|Reducción Deuda Técnica|6h 45m|2h
