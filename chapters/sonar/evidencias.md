@@ -40,6 +40,7 @@ Los issues al finalizar este ciclo fueron 121 que en comparación con el ciclo a
 
 
 ####Bloquer:
+Al finalizar este ciclo no tenemos ningún issue de tipo bloquer, sin embargo la semana pasada había un issue blocker pero ya fue arreglado, el equipo revisó constantemente sonar al subir el código desarrollado y por esta razón se solucionó.
 
 ####Critical:
 
