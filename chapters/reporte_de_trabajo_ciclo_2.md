@@ -12,6 +12,7 @@ A continuación presentamos un análisis del trabajo realizado en el segundo cic
     * Se realizó una estimación de cada uno de los artefactos, sin embargo, consideramos que tuvimos sobreestimación en algunas tareas y desestimación en otras.
 4. Realizar una planeación semanal
     * Como equipo realizamos una planeación semanal pero no cumplimos con las tareas estimadas, por ello nuestra gráfica de valor ganado presenta un incremento sustancial en la última parte del ciclo.
+    * Como equipo fallamos en llevar tareas más pequeñas, en youtrack solo fueron registradas tareas grandes y no fueron subdivididas en otras para llevar un mejor control.
 5. Utilizar el concepto de valor ganado para hacer el seguimiento
     *Aunque manejamos una tabla de porcentajes de valor ganado muchas tareas no fueron desarrolladas en el  tiempo esperado por lo que en la tabla aparece que no cumplimos con el 100% del lo planeado.
 
