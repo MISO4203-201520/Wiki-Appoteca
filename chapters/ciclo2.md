@@ -93,3 +93,4 @@ Para este ciclo, dado los limitantes que tuvimos como equipo en el aprendizaje d
 | R28 | APP-6 |El sistema debe ofrecer un mecanismo seguro para la recuperación de contraseña de los usuarios por medio del uso del correo electrónico.| Andrés De Castro|
 | R25 | APP-4 | El sistema debe permitir a los compradores posterior a una compra, calificar a los desarrolladores de manera que otros usuarios puedan utilizar esos comentarios como insumo en su proceso de decisión.| Andrés Esguerra|
 | R31 | APP-7 | El sistema debe permitir a un comprador encontrar información de valor sobre la aplicación, tal como; la cantidad de descargas de la aplicación, la calificación general, comentarios de otros compradores.| Andrés Esguerra|
+ |R10 |APP-1| El sistema debe permitir filtrar las aplicaciones presentes en la galería por categoría de manera que el comprador pueda encontrar de forma más facíl la aplicación que desea.|Andrés Rojas| 
