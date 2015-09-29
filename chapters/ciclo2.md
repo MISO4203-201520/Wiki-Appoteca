@@ -18,11 +18,11 @@
 
 ###Metricás de cumplimiento 
 
-1. La cantidad de problemas presentados sobre el ciclo 1 mitigados en el ciclo 2. .
+1. La cantidad de problemas presentados sobre el ciclo 1 mitigados en el ciclo 2.
 2. Cantidad de requerimientos realizados y porcentaje cubrimiento de pruebas sobre estos.
 3. Cantidad de requerimientos con estimación.
 4. Al menos una nueva tarea semanal por miembro del grupo.
-5. Cantidad de issues del primer ciclo cerrados durante el ciclo 2
+5. Cantidad de desarrolladores con trabajo actualizado en la planeación semanal.
 
 ##Riesgos
 
