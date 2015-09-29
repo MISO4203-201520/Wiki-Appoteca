@@ -53,8 +53,11 @@ Se resalta los siguientes puntos en la forma en que trabajo el equipo.
 #### Pulgar arriba:
 * Se cumplieron con todos los requerimientos y con los issues del ciclo anterior.
 * hubo una buena comunicación en el grupo lo que nos permitio salir a flote con respecto a dudas y problemas presentados.
+* Hubo un buen manejo del repositorio y de las ramas de desarrollo, así como de las fechas definidas para entrega.
 
 #### Pulgar abajo:
+* No hubo un buen cumplimiento con las reuniones de planeación y seguimiento.
+* No se mantuvo un proceso de dividir las historias en más pequeñas para llevar un mejor control.
 
 #### Medidas para el siguiente ciclo
 
