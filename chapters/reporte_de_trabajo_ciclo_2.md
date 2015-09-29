@@ -12,25 +12,22 @@ A continuación presentamos un análisis del trabajo realizado en el segundo cic
     * Se realizó una estimación de cada uno de los artefactos, sin embargo, consideramos que tuvimos sobreestimación en algunas tareas y desestimación en otras.
 4. Realizar una planeación semanal
     * Como equipo realizamos una planeación semanal pero no cumplimos con las tareas estimadas, por ello nuestra gráfica de valor ganado presenta un incremento sustancial en la última parte del ciclo.
-    * Como equipo fallamos en llevar tareas más pequeñas, en youtrack solo fueron registradas tareas grandes y no fueron subdivididas en otras para llevar un mejor control.
 5. Utilizar el concepto de valor ganado para hacer el seguimiento
     *Aunque manejamos una tabla de porcentajes de valor ganado muchas tareas no fueron desarrolladas en el  tiempo esperado por lo que en la tabla aparece que no cumplimos con el 100% del lo planeado.
 
 ### Individual
 
 1. Incluir en su plan de acción las acciones de mejora propuestas en la conclusión del ciclo 1
-    * Todos los miembros de grupo cumplieron con lo pactado en sus compromisos individuales.
 2. Participar, colaborar, proponer, atender las reuniones, seguir cumpliendo las reglas de funcionamiento
-    * Como grupo fallamos en el compromiso con las reuniones de seguimiento y planeación por lo que muchas de las tareas en el plan de valor ganado no reflejan el porcentaje que se requería.
 3. Entender los objetivos del ciclo 2
-    * Como equipo fallamos en llevar una mejor planeación en tareas más pequeñas y en el control y planeación de estás-
 
 ## Manejo de riesgos
 
 
 ## Manejo de tareas
+Se usa la herramienta YouTrack para gestionar los requerimientos existentes y el registro de tiempos. Se repartió la carga entre los diferentes miembros del equipo y se procedió a trabajar en los requerimientos.
 
->Andrés Esguerra
+![issues_asignados](arq/img/issues_asignados.png)
 
 ## Requerimientos
 
@@ -51,14 +48,11 @@ Se resalta los siguientes puntos en la forma en que trabajo el equipo.
 
 ## Conclusión
 #### Pulgar arriba:
-* Se cumplieron con todos los requerimientos y con los issues del ciclo anterior.
-* hubo una buena comunicación en el grupo lo que nos permitio salir a flote con respecto a dudas y problemas presentados.
+* Se vio mayor compromiso en la implementación de los requerimientos.
+* Se reduce la barrera del desconocimiento de la tecnología.
 
 #### Pulgar abajo:
+* Faltó sincronizar de manera más ordenada las estimaciones realizadas en excel con las estimaciones realizadas en youtrack.
+* Se debe buscar la manera de poder representar en YouTrack las estimaciones semanales para el valor ganado.
 
 #### Medidas para el siguiente ciclo
-
-* Llevar una mejor relación entre lo que esta en Youtrack y lo que manejamos en el excel de planeación.
-* Llevar un granularidad de tareas más pequeñas que nos permitan llevar un mejor control.
-* Delegar más tareas que impidan tener tiempo ocioso del equipo.
-* Generar un mejor compromiso con las reuniones de trabajo del equipo.
