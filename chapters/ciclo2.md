@@ -47,7 +47,7 @@ Para el ciclo dos de este proyecto, tomamos en consideración los mismos riesgos
 
 ##Plan de Acción
 
-Para el primer ciclo tuvimos varios problemas como equipo y algunos riesgos se materializarpoon, dado estás fallas definimos los siguientes compromisos individuales y como grupo. (Para ver los problemas presentados en el primer ciclo, revisar /Plan Global/Ciclo1/Reporte de trabajo ciclo 1).
+Para el primer ciclo tuvimos varios problemas como equipo y algunos riesgos se materializaron, dado estás fallas definimos los siguientes compromisos individuales y como grupo. (Para ver los problemas presentados en el primer ciclo, revisar /Plan Global/Ciclo1/Reporte de trabajo ciclo 1).
 
 ###Compromisos Visibles
 
@@ -72,7 +72,7 @@ Para el primer ciclo tuvimos varios problemas como equipo y algunos riesgos se m
 
 > Subir requerimientos faltantes 
 
-Para este ciclo, dado los limitantes que tuvimos como equipo en el aprendizaje de la tecnología y las herramientas durante el primer ciclo y con el propósito de mitigar el riesgo de la tecnología,  tomamos como criterio para la elección de rerquerimientos las historias que resultarán de menor complejidad para el equipo. Estás son:
+Para este ciclo, dado los limitantes que tuvimos como equipo en el aprendizaje de la tecnología y las herramientas durante el primer ciclo y con el propósito de mitigar el riesgo de la tecnología,  tomamos como criterio para la elección de requerimientos las historias que resultarán de menor complejidad para el equipo. Estás son:
 
 | Número Requerimiento | Código en Youtrack | Descripción | Encargado |
 | :-----------: | :-----------: |----------- |----------- |
