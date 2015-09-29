@@ -22,15 +22,13 @@ A continuación presentamos un análisis del trabajo realizado en el segundo cic
 3. Entender los objetivos del ciclo 2
 
 ## Manejo de riesgos
-
+* La carga académica de otras clases puede afectar el ritmo de trabajo del equipo. **Materializado**: Durante las tres semanas varios miembros del equipo tuvieron dificultad gestionando el tiempo para las reuniones. Fue difícil reunirnos todos, lo cual hacía que las reuniones se hicieran en horas de la noche hasta la madrugada.
+* La curva de aprendizaje de YouTrack puede afectar la precisión de los reportes. **Materializado**: Entender YouTrack afectó un poco en el seguimiento ya que no podíamos identificar cómo separar los issues por semana.
 
 ## Manejo de tareas
 Se usa la herramienta YouTrack para gestionar los requerimientos existentes y el registro de tiempos. Se repartió la carga entre los diferentes miembros del equipo y se procedió a trabajar en los requerimientos.
 
 ![issues_asignados](arq/img/issues_asignados.png)
-
-## Requerimientos
-
 
 ## Impacto en calidad de código
 ![alt text](http://s3.postimg.org/7s2y2rf37/Screen_Shot_2015_09_29_at_4_03_03_PM.png "Logo Title Text 1")
@@ -40,11 +38,6 @@ La deuda tecnica fue uno de los ítems por los que más nos preocupamos en este 
 El número de líneas de código en este ciclo aumentó por 2.000 líneas de código ya que se implementaron los requerimientos que no terminamos el ciclo pasado más los requerimientos asignados para este ciclo, sin embargo, la deuda técnica se redujo. De igual manera el código duplicado también se redujo de manera significativa debido al refactoring que hicimos en este ciclo.
 
 Para ver en detalle el análisis en el impacto del código revisa "Análisis de código/Ciclo2".
-
-## Trabajo en equipo
-
-Se resalta los siguientes puntos en la forma en que trabajo el equipo.
-
 
 ## Conclusión
 #### Pulgar arriba:
