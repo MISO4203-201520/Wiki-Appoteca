@@ -55,3 +55,6 @@ Se resalta los siguientes puntos en la forma en que trabajo el equipo.
 #### Pulgar abajo:
 
 #### Medidas para el siguiente ciclo
+
+* Llevar una mejor relación entre lo que esta en Youtrack y lo que manejamos en el excel de planeación.
+* Llevar un granularidad de tareas más pequeñas
