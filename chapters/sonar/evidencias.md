@@ -43,8 +43,10 @@ Los issues al finalizar este ciclo fueron 121 que en comparación con el ciclo a
 Al finalizar este ciclo no tenemos ningún issue de tipo bloquer, sin embargo la semana pasada había un issue blocker pero ya fue arreglado, el equipo revisó constantemente sonar al subir el código desarrollado y por esta razón se solucionó.
 
 ####Critical:
+En este ciclo contamos un total de 14 issues de típo críticos, 8 más que en el ciclo anterior.
 
-####Major:
+####Major: 
+En este ciclo contamos un total de 52 issues de tipo major, este ítem lo logramos reducir con el refactoring por 12.
 
 
 
