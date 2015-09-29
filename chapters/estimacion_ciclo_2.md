@@ -57,6 +57,8 @@ Ciclo|LOC Front|Estimate Front|LOC Back|Estimate Back
 2|910|40.22051888|2550|204.5505102
 
 ##Plan General del ciclo
+Plan general del ciclo 2 teniendo en cuenta que es un grupo de cinco integrantes.
+
 |Actividad| Costo| Valor Planeado| Sem1| Sem2| Sem3| Check|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |Lanzamiento |5.4 |4% |5.4 | | |5.4
@@ -73,8 +75,6 @@ Ciclo|LOC Front|Estimate Front|LOC Back|Estimate Back
 |Total| 135| 100% |44.595| 45.945| 44.46| 135
 | ||  |33.03%| 67.07%| 100.00% 
 |Total por individuo| 27| | 8.919| 9.189| 8.892 
-      
-- Número de integrantes: 5
 
 | |Total Horas Grupo|Total Horas xSem|Horas x Semana x Individuo|
 |:--:|:--:|:--:|:--:|
