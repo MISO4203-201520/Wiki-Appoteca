@@ -74,4 +74,5 @@ Para este ciclo, dado los limitantes que tuvimos como equipo en el aprendizaje d
 | :-----------: | :-----------: |----------- |----------- |
 | R3 | APP-8 | El sistema debe ofrecer al usuario con el rol de administrador el servicio de ver los usuarios registrados en la aplicación y sus roles. | César Forero |
 | R26 | APP-5 | El sistema debe permitir al administrador del sistema bloquear las cuentas de usuario de un comprador o desarrollador si lo encuentra pertinente. | César Forero |
-| R11 | APP-2 | El sistema debe permitir al comprador compartir en redes sociales las aplicaciones de su gusto, para que otras personas puedan ver la oferta fuera de la plataforma.. | Iván García|
+| R11 | APP-2 | El sistema debe permitir al comprador compartir en redes sociales las aplicaciones de su gusto, para que otras personas puedan ver la oferta fuera de la plataforma. | Iván García|
+| R24 | APP-3 |El sistema debe confirmar por medio de correo electrónico la correcta compra de alguna aplicación al comprador. | Iván García|
