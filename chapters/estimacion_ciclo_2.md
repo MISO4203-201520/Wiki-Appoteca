@@ -5,3 +5,5 @@
 ##Estimación de siguiente ciclo
 
 ##Plan General del ciclo
+
+##Historias en Youtrack
