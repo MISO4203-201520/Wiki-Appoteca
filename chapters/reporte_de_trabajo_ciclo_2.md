@@ -6,9 +6,12 @@ A continuación presentamos un análisis del trabajo realizado en el segundo cic
 
 1. Revisar de forma crítica lo realizado en el ciclo anterior en cuanto al producto y al proceso, para definir mejoras en el ciclo 2
     * El grupo cumplio con el arreglo de los issues del primer ciclo, desafortunadamente no se tomarón como prioridad lo que demando de algunos miembros del grupo realizar las tareas al final del ciclo al tiempo que los requerimientos. 
-2. Producir un incremento funcional en la aplicación que incluya pruebas automatizadas
+2. Producir un incremento funcional en la aplicación que incluya pruebas automatizadas.
+    * Todos los miembros del grupo tuvieron al menos un requerimiento asignado y cumplieron con todos. Consideramos que para próximos ciclos podemos incrementar la carga sobre los miembros del equipo.
 3. Estimar el tiempo de construcción de los artefactos del ciclo 2 del producto
+    * Se realizó una estimación de cada uno de los artefactos, sin embargo, consideramos que tuvimos sobreestimación en algunas tareas y desestimación en otras.
 4. Realizar una planeación semanal
+    * Como equipo realizamos una planeación semanal pero no cumplimos con las tareas estimadas, por ello nuestra gráfica de valor ganado presenta un incremento sustancial en la última parte del ciclo.
 5. Utilizar el concepto de valor ganado para hacer el seguimiento
 
 ###Individual
