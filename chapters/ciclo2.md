@@ -51,6 +51,8 @@ Para el primer ciclo tuvimos varios problemas como equipo y algunos riesgos se m
 
 ###Compromisos Visibles
 
+> Subir compromisos 
+
 **César Forero**: 
 * Asumir de una mejor manera mi rol como lider y mantener alineado al grupo sobre sus tareas y responsabilidades faltantes.
 * Como objetivo personal, dividir mejor las tareas asignadas en tareas más pequeñas para poder llevar un mejor control.
