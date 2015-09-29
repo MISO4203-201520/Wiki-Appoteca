@@ -30,9 +30,12 @@ P3|700|38|740|38
 P4|1200|50|1400|120
 P6|829|37|1944|155
 
-En total nos tomo 2698 lineas de código que basado en la tabla 
+Tuvimos un total de 2698 lineas de código que nos tomo 44 horas en desarrollar.
 
 ##Estimación del ciclo 2
+
+Basado en la experiencia del ciclo 1 determinamos de forma subjetiva cuanto sería el esfuerzo en fron-end, servicios y back-end, que nos tomaría desarrollar los requerimientos del ciclo 2. Se clasificaron en  P:pequeño, M:mediano, G:grande.
+
 |Front|Servicio|Back
 :--:|:--:|:--:
 APP-8|M|P|M
