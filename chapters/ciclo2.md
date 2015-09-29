@@ -71,6 +71,11 @@ Para el primer ciclo tuvimos varios problemas como equipo y algunos riesgos se m
 * No dejar al final todas las tareas, ni subestimar los requerimientos que se me asignan.
 * Apoyar a mis compañeros con las tareas que presenten problemas y recibir apoyo de parte de llos de manera oportuna para que el equipo crezca en conocimiento técnico y así se nivelen las cargas en la parte técnica.
 
+**Andrés De Castro**
+* Comenzar las tareas a desarrollar con más antelación
+* Solicitar ayuda oportuna al grupo al momento de contar con un problema
+* Realizar todos los procesos de seguimiento y planteamiento de subtareas
+
 **Como grupo**:
 * Realizar dos reuniones semanales, miercoles para determinar en que debemos trabajar y resolver dudas y sábado como reunión de seguimiento. Adicionalmente, se tendra reuniones extraordinarias los lunes para ajustar cualquier detalle faltante sobre las entregas.
 * El limite para hacer commit de funcionalidades a master en cada ciclo, es el domingo anterior al cierre del ciclo, solo en caso que haya algún problema del que todo el equipo tenga conocimiento y lo aprueben se dará un plazo hasta la reunión del lunes.
