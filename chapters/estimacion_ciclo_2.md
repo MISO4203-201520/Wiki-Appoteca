@@ -2,10 +2,10 @@
 
 ## Estimación Ciclo 1
 
-Con base en el código subido a youtrack 
+Con base en el código subido a youtrack calculamos el esfuerzo de realizar el ciclo 1.
 
 #### Líneas de código
-R1|R2|R3|R4|R5|R6|Total
+|R1|R2|R3|R4|R5|Total
 :--:|:--:|:--:|:--:|:--:|:--:|:--:
 Backend|858|132|543|268|85|1886
 Servicios|191|29|103|51|5|379
@@ -13,7 +13,7 @@ Frontend|84|180|53|66|50|433
 Total|1133|341|699|385|140|2698
 
 #### Horas
-R1|R2|R3|R4|R5|R6
+|R1|R2|R3|R4|R5|Total
 :--:|:--:|:--:|:--:|:--:|:--:|:--:
 Backend|6|2|1|4.37|2.5|15.87
 Servicios|5|1|1|1.57|1|25.44
