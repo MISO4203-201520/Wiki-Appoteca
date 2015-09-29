@@ -80,6 +80,40 @@ Plan general del ciclo 2 teniendo en cuenta que es un grupo de cinco integrantes
 |:--:|:--:|:--:|:--:|
 |Tiempo Disponible|135|45|9|
 
+### Seguimiento
+
+Actividad||Costo|Valor Planeado|Sem1|Sem2|Sem3|Check
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+**Lanzamiento**|Cada uno|5.4|4%|5.4|||5.4
+**Planeación**|Cada uno|5.4|4%|2.5|4||6.5
+**Seguimiento**|Cada uno|12.15|9%||7.5|0.5|8
+**Analisis**|Cada uno|2.7|2%||2.5||2.5
+**Diseño**|Cada uno|2.7|2%||2.5||2.5
+**Implementación**|||||||
+APP-8|César|9.66|7.15%|||8|8
+APP-5|César|6.67|4.94%|||4|4
+APP-2|Iván|7.90|5.85%|||9|9
+APP-3|Iván|4.39|3.25%|||2|2
+APP-1|Andres Camilo|7.90|5.85%|4|6||10
+APP-4|Esguerra|9.66|7.15%|||5|5
+APP-7|Esguerra|7.90|5.85%|||3|3
+APP-6|Andrés De Castro|6.67|4.94%|||8|8
+**Pruebas funcionales**|||||||0
+APP-8|César|1.07|0.79%|||1|1
+APP-5|César|0.74|0.55%|||1|1
+APP-2|Iván|0.88|0.65%|||1|1
+APP-3|Iván|0.49|0.36%|||1|1
+APP-1|Andres Camilo|0.88|0.65%|||1|1
+APP-4|Esguerra|1.07|0.79%|||1|1
+APP-7|Esguerra|0.88|0.65%|||1|1
+APP-6|Andrés De Castro|0.74|0.55%|||2|2
+**Conclusión**|Cada uno|10.8|8%|||9|9
+**Refactoring & Fixes**|Cada uno|6.75|5%|4.5||3.5|8
+**Capacitación**|Cada uno|16.2|12%|1|1|1|3
+**Miscelánea**|Alguno|5.4|4%|1.6||5|6.6
+**Total**||135|100%|19|23.5|67|109.5
+**Total valor planeado acumulado**||||14%|31%|81%|
+
 ##Estimaciones en Youtrack
 
 > Andrés Esguerra
