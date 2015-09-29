@@ -34,7 +34,7 @@ El resultado es el siguiente:
 | R25 | El sistema debe permitir a los compradores posterior a una compra, calificar a los desarrolladores de manera que otros usuarios puedan utilizar esos comentarios como insumo en su proceso de decisión. |
 | R26 | El sistema debe permitir al administrador del sistema bloquear las cuentas de usuario de un comprador o desarrollador si lo encuentra pertinente. |
 | R28 | El sistema debe ofrecer un mecanismo seguro para la recuperación de contraseña de los usuarios por medio del uso del correo electrónico. |
-| R31 | El sistema debe permitir a un comprador encontrar información de valor sobre la aplicación, tal como; la cantidad de descargas de la aplicación, la calificación general, comentarios de otros compradores y aplicaciones similares. |
+| R31 | El sistema debe permitir a un comprador encontrar información de valor sobre la aplicación, tal como; la cantidad de descargas de la aplicación, la calificación general, comentarios de otros compradores. |
 
 ##Ciclo 3
 
