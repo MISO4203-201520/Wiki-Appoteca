@@ -48,6 +48,9 @@ APP-7|M|P|P
 APP-6|P|P|P
 
 ### Estimación por requerimiento
+
+Con base en la clasificación anterior determinamos el esfuerzo en lineas de código que debiamos realizar para cumplir con cada requerimiento.
+
 |Front|Servicio|Back|Total|Porcentaje
 :--:|:--:|:--:|:--:
 APP-8|150|50|350|550|15.90%
