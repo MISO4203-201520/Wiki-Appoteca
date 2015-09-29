@@ -29,6 +29,11 @@ M|0|0
 G|0|0
 **Total**||350
 
+###Total
+Ciclo|LOC Front|Estimate Front|LOC Back|Estimate Back
+:--:|:--:|:--:|:--:|:--:
+2|910|40.22051888|2550|204.5505102
+
 ### Backend
 Tamaño|Cantidad|Subtotal
 :--:|:--:|:--:
