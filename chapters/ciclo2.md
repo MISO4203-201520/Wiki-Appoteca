@@ -56,6 +56,9 @@ Para el primer ciclo tuvimos varios problemas como equipo y algunos riesgos se m
 * Como objetivo personal, dividir mejor las tareas asignadas en tareas más pequeñas para poder llevar un mejor control.
 * Realizar commits más seguidos que no entren en conflicto con lo desarrollado por mis compañeros.
 
+**Iván Garcia**: 
+* Colaborar Más a todos los integrantes del equipo y no centrarme solo en mis tareas asignadas.
+* No dejar al final todas las tareas, planear mejor el ciclo  para tener más tiempo y poder cumplir con todos los objetivos.
 
 **Como grupo**:
 * Realizar dos reuniones semanales, miercoles para determinar en que debemos trabajar y resolver dudas y sábado como reunión de seguimiento. Adicionalmente, se tendra reuniones extraordinarias los lunes para ajustar cualquier detalle faltante sobre las entregas.
