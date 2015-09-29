@@ -116,4 +116,16 @@ APP-6|Andrés De Castro|0.74|0.55%|||2|2
 
 ##Estimaciones en Youtrack
 
-> Andrés Esguerra
+USERS , GROUP BY ASSIGNEE|TIME ESTIMATED|TIME SPENT
+:--:|:--:|:--:
+CesarF|18h 8m|14h
+César Forero|—|14h
+Ing.acrm|11h|22h
+Andres Camilo Rojas M|—|22h
+af.decastro879||7h 47m
+af.decastro879|—|7h 47m
+ivanchemical|13h|13h
+ivanchemical|—|13h
+kaosterra|28h 28m|10h
+Andrés Felipe Esguerra Restrepo|—|10h
+Total time spent| |66h 47m
