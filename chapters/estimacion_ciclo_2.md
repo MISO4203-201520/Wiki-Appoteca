@@ -3,6 +3,28 @@
 ##Estimación del ciclo anterior
 
 ##Estimación del ciclo 2
+|Front|Servicio|Back
+:--:|:--:|:--:
+APP-8|M|P|M
+APP-5|P|P|P
+APP-2|M|P|P
+APP-3|||P
+APP-1|M|P|P
+APP-4|M|P|M
+APP-7|M|P|P
+APP-6|P|P|P
+
+|Front|Servicio|Back|Total|Porcentaje
+:--:|:--:|:--:|:--:
+APP-8|150|50|350|550|15.90%
+APP-5|80|50|250|380|10.98%
+APP-2|150|50|250|450|13.01%
+APP-3|||250|250|7.23%
+APP-1|150|50|250|450|13.01%
+APP-4|150|50|350|550|15.90%
+APP-7|150|50|250|450|13.01%
+APP-6|80|50|250|380|10.98%
+||||3460|100.00%
 
 ##Plan General del ciclo
 |Actividad| Costo| Valor Planeado| Sem1| Sem2| Sem3| Check|
