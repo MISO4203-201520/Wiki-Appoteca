@@ -98,6 +98,7 @@ Ciclo|LOC Front|Estimate Front|LOC Back|Estimate Back
 Basado en nuestra tabla nos encontramos que nos tomaría 244 horas el desarrollo de todos los requerimientos.
 
 ##Plan General del ciclo
+
 Plan general del ciclo 2 teniendo en cuenta que es un grupo de cinco integrantes.
 
 |Actividad| Costo| Valor Planeado| Sem1| Sem2| Sem3| Check|
