@@ -64,6 +64,9 @@ APP-6|80|50|250|380|10.98%
 ||||3460|100.00%
 
 ### Estimación por capa
+
+Posteriormente ponderamos cuantas lineas de código nos tomaría desarrollar todos los requerimientos en cada una de capas de la aplicación.  El resultado fue:
+
 #### Frontend
 Tamaño|Cantidad|Subtotal
 :--:|:--:|:--:
