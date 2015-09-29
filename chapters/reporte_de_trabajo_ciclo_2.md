@@ -52,3 +52,10 @@ Para ver en detalle el análisis en el impacto del código revisa "Análisis de 
 #### Pulgar abajo:
 * No hubo un buen cumplimiento con las reuniones de planeación y seguimiento.
 * No se mantuvo un proceso de dividir las historias en más pequeñas para llevar un mejor control.
+
+
+#### Medidas para mejorar en el siguiente ciclo
+
+* Dividir tareas de desarrollo en tareas más pequeñas que nos permitan tener un mejor control y seguimiento de las tareas.
+* Llevar una mejor relación en las tareas realizadas en youtrack y 
+
