@@ -9,6 +9,7 @@ Al finalizar el ciclo #2, el porcentaje de documentación fué de 53.8%, en comp
    
    ![alt text](http://s12.postimg.org/gnwwk3wd9/Screen_Shot_2015_09_29_at_12_28_33_AM.png "Logo Title Text 1")
    
+   Al analizar la líneas de código en este ciclo, tenemos un total de 5.506, este indicador ha aumentado en comparación con el ciclo anterior en donde teníamos 3.276 líneas de código. Este gran aumento se debe a que al finalizar el ciclo 1 nos hizo falta desarrollar dos requerimientos razón por la cual en este ciclo implementamos estos requerimientos que nos faltaron mas los requerimientos asignados para el ciclo 2.
    
    
 Files: 
