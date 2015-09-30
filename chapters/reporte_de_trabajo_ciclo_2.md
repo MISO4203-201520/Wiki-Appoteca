@@ -43,6 +43,23 @@ El número de líneas de código en este ciclo aumentó por 2.000 líneas de có
 
 Para ver en detalle el análisis en el impacto del código revisa "Análisis de código/Ciclo2".
 
+
+###Evaluación 
+
+####Métricas Producto:
+
+* Requerimientos Planeados Vs Requerimientos terminados
+* Tamaño Real (LOCS).
+* % Error de Estimación de tamaño
+* Deuda Técnica: Comparación con el ciclo anterior y análisis
+
+####Métricas Proceso:
+
+* % Estimación de error de Esfuerzo total por grupo y por individuo
+* Gráfica de valor ganado y análisis (adjuntar reportes individuales de tareas planeadas vs tareas finalizadas)
+* Evaluación de los objetivos del ciclo con base en las métricas propuestas
+
+
 ## Conclusión
 #### Pulgar arriba:
 * Se cumplieron con todos los requerimientos y con los issues del ciclo anterior.
