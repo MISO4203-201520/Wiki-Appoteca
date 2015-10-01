@@ -6,7 +6,7 @@
    * [Requerimientos](chapters/requerimientos.md)
    * [Ciclo 1](chapters/ciclo1.md)
        * [Reporte de trabajo ciclo 1](chapters/reporte_de_trabajo_ciclo_1.md)
-   * [Ciclo2](chapters/ciclo2.md)
+   * [Ciclo 2](chapters/ciclo2.md)
        * [Estimación Ciclo 2](chapters/estimacion_ciclo_2.md)
        * [Reporte de trabajo ciclo 2](chapters/reporte_de_trabajo_ciclo_2.md)
    * Ciclo 3
