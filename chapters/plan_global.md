@@ -46,7 +46,7 @@ El resultado es el siguiente:
 | R12 | El sistema debe permitir a un comprador calificar con un número de estrellas y un comentario una aplicación comprado. |
 | R18 | El sistema debe ofrecerle al desarrollador un página de perfil donde se relacione su información como proveedor y las aplicaciones que ofrece. |
 | R19 | El sistema debe ofrecerle al comprador poder acceder a un dashboard donde se pueda apreciar su información, las aplicaciones compradas y el historial de compras en el sistema. |
-| R20 | El sistema debe permitir al comprador generar informes de sus compras para que pueda llevar un control de las aplicaciones compradas en un periodo de tiempo específico. |
+| R21 | El sistema debe permitir a un comprador buscar aplicaciones relacionadas a un tema en específico que puede ser una palabra o serie de palabras. |
 | R27 | El sistema debe permitir al administador eliminar mensajes ofensivos del sistema y deshabilitar aplicaciones que se consideren inseguras para el comprador. |
 
 ##Ciclo 4
@@ -59,7 +59,6 @@ El resultado es el siguiente:
 | R15 | El sistema debe permitir al comprador descargar la aplicación posterior al pago realizado. |
 | R16 | El sistema debe permitir al desarrollador subir una aplicación al sistema y etiquetarla con una versión para que el comprador sepa que versión de la aplicación descarga. |
 | R17 | El sistema debe ofrecerle al desarrollador una página para llevar el control de venta de sus aplicaciones. En esta página se deben presentar las últimas ventas realizadas, los últimos comentarios, los últimos bugs reportados y debe permitir generar reportes de ventas de sus aplicaciones. |
-| R21 | El sistema debe permitir a un comprador buscar aplicaciones relacionadas a un tema en específico que puede ser una palabra o serie de palabras. |
 | R22 | El sistema debe mostrarle al comprador las aplicaciones más recomendadas basado en sus anteriores compras, los comentarios realizados y sus busquedas anteriores. |
 
 ##Otros requerimientos
