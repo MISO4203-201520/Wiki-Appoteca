@@ -4,7 +4,7 @@
    * [Organización de equipo](chapters/organizacion_de_equipo.md)
 * [Plan Global](chapters/plan_global.md)
    * [Requerimientos](chapters/requerimientos.md)
-   * [Ciclo1](chapters/ciclo1.md)
+   * [Ciclo 1](chapters/ciclo1.md)
        * [Reporte de trabajo ciclo 1](chapters/reporte_de_trabajo_ciclo_1.md)
    * [Ciclo2](chapters/ciclo2.md)
        * [Estimación Ciclo 2](chapters/estimacion_ciclo_2.md)
