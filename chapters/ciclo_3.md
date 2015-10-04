@@ -40,3 +40,10 @@ Implementar una arquitectura diferente a la ya existente|Aclarar en el grupo la 
 | R19 | El sistema debe ofrecerle al comprador poder acceder a un dashboard donde se pueda apreciar su información, las aplicaciones compradas y el historial de compras en el sistema. | Andrés Rojas |
 | R21 | El sistema debe permitir a un comprador buscar aplicaciones relacionadas a un tema en específico que puede ser una palabra o serie de palabras. | Juan Daniel Patiño |
 | R27 | El sistema debe permitir al administador eliminar mensajes ofensivos del sistema y deshabilitar aplicaciones que se consideren inseguras para el comprador. | Andrés DeCastro |
+
+## Milestones semanales
+| Semana | Milestone | Responsable |
+| :--: | :-- | :-- |
+| 1 | El esfuerzo será dedicado solo a temas de planeación. | Cada miembro del equipo (en cabeza de los líderes de planeación)
+| 2 | El esfuerzo será dedicado al desarrollo de los requerimientos. | Cada miembro del equipo
+| 3 | El esfuerzo será dedicado a la construción de las pruebas (lógica, persistencia, servicio y Selenium). | Cada miembro del equipo
