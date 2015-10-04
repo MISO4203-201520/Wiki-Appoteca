@@ -3,7 +3,7 @@
 ## Objetivos
 Objetivo|Métrica
 :--|:--
-Adaptación óptima de los nuevos integrantes del equipo.|Requerimientos asignados vs requerimientos cumplidos en el tiempo estimado. Tareas administrativas asignadas vs tareas administrativas cumplidas.
+Adaptación óptima de los nuevos integrantes del equipo.|Proporción de tareas planeadas vs tareas cumplidas mayor al 90%.
 Alcanzar un cubrimiento de pruebas satisfactorio|Alcanzar al menos un 60% de cubrimiento de pruebas
 
 ## Riesgos
