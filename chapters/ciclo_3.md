@@ -1,5 +1,15 @@
 # Ciclo 3
 
+## Roles
+- Líder del grupo
+  - Andrés Esguerra
+- Líderes de planeación:
+  - Juan Daniel Patiño
+  - Andrés Camilo Rojas
+- Líderes de calidad:
+  - David Jiménez
+  - Andrés DeCastro
+
 ## Objetivos
 Objetivo|Métrica
 :--|:--
@@ -15,6 +25,11 @@ No cumplir con compromisos internos.|Definir un sistema de penalización para la
 Descuidar alguna tarea y luego apurarse a hacerla a última hora.|Hacer reuniones virtuales extraordinarias con las personas involucradas para abordar los temas que no se trataron.
 No poder hacer reuniones con todo el grupo por conflicto de horarios|Realizar reuniones en grupos pequeños con los integrantes necesarios y retroalimentar a los ausentes.
 Implementar una arquitectura diferente a la ya existente|Aclarar en el grupo la responsabilidad de cada componente.
+
+## Medidas para integrar a los nuevos miembros
+- Comunicar la estructura y funcionalidad de la aplicación
+- Disponibilidad constante para dar soporte sobre la aplicación y las reglas de trabajo.
+- Introducción inicial de los procesos implementados y las herramientas usadas.
 
 ## Requerimientos
 | Requerimiento | Descripción | Responsable |
