@@ -13,7 +13,7 @@
 ## Objetivos
 Objetivo|Métrica
 :--|:--
-Adaptación óptima de los nuevos integrantes del equipo.|Proporción de tareas planeadas vs tareas cumplidas mayor al 90%.
+Alta productividad del equipo.|Proporción de tareas planeadas vs tareas cumplidas mayor al 90%.
 Alcanzar un cubrimiento de pruebas satisfactorio|Alcanzar al menos un 60% de cubrimiento de pruebas
 
 ## Riesgos
