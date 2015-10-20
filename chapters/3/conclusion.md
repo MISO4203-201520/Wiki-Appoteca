@@ -47,3 +47,8 @@ Los nuevos integrantes pudieron acoplarse al proceso del equipo rápidamente y l
 
 ### Implementación de pruebas
 La implementación de las pruebas de la capa lógica permitió conocer un poco acerca de cómo debían realizarse y del funcionamiento de arquilian. Sin embargo, las pruebas de los servicios REST se presentaron como un reto ya que la seguridad de shiro, el uso de stormpath, y en general librerías incompatibles causaron que la implementación de estas pruebas fuese el mayor reto del ciclo.
+
+## Plan de mejora para el ciclo 4
+- Cambiar la manera de gestionar el equipo para evitar los problemas de organización que se presentaron en este ciclo.
+- Aunque la tasa de deuda técnica se ha mantenido en 1%, planteamos como objetivo disminuir las horas que representan (actualmente 4d2h)
+- Mejorar el manejo de la seguridad para hacer la aplicación más mantenible.
