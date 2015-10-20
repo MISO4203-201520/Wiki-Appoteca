@@ -1,5 +1,32 @@
 # Ciclo 4
 
+## Roles
+- Líder del grupo
+  - Andrés Esguerra
+- Líderes de planeación:
+  - Juan Daniel Patiño
+  - Andrés Camilo Rojas
+- Líderes de calidad:
+  - David Jiménez
+  - Andrés DeCastro
+
+## Objetivos
+Objetivo|Métrica
+:--|:--
+Alta productividad del equipo.|Proporción de tareas planeadas vs tareas cumplidas mayor al 90%.
+Alcanzar un cubrimiento de pruebas satisfactorio|Alcanzar al menos un 60% de cubrimiento de pruebas
+
+## Riesgos
+Riesgo|Mitigación
+:--|:--
+Complejidad de los requerimientos|Para este ciclo se dejó los requerimientos de mayor dificultad en su implementación, lo cual puede afectar la productividad.
+Incoherencia con respecto a la arquitectura|En el transcurso de los ciclos anteriores se realizaron varias modificaciones que se alejan de la arquitectura planteada, lo que hace más difícil el mantenimiento de la aplicación.
+
+## Medidas para integrar a los nuevos miembros
+- Comunicar la estructura y funcionalidad de la aplicación
+- Disponibilidad constante para dar soporte sobre la aplicación y las reglas de trabajo.
+- Introducción inicial de los procesos implementados y las herramientas usadas.
+
 ## Requerimientos
 | Requerimiento | Descripción |
 | :-----------: | ----------- |
