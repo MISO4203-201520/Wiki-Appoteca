@@ -22,11 +22,6 @@ Riesgo|Mitigación
 Complejidad de los requerimientos|Para este ciclo se dejó los requerimientos de mayor dificultad en su implementación, lo cual puede afectar la productividad. Para esto se buscará realizar las respectivas investigaciones de tecnología con anterioridad para acelerar la curva de prendizaje
 Incoherencia con respecto a la arquitectura|En el transcurso de los ciclos anteriores se realizaron varias modificaciones que se alejan de la arquitectura planteada, lo que hace más difícil el mantenimiento de la aplicación. En la medida de lo posible realizar refactoring para facilitar el mantenimiento.
 
-## Medidas para integrar a los nuevos miembros
-- Comunicar la estructura y funcionalidad de la aplicación
-- Disponibilidad constante para dar soporte sobre la aplicación y las reglas de trabajo.
-- Introducción inicial de los procesos implementados y las herramientas usadas.
-
 ## Requerimientos
 | Requerimiento | Descripción |
 | :-----------: | ----------- |
