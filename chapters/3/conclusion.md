@@ -46,3 +46,4 @@ Los nuevos integrantes pudieron acoplarse al proceso del equipo rápidamente y l
 ### Trazabilidad de los requerimientos
 
 ### Implementación de pruebas
+La implementación de las pruebas de la capa lógica permitió conocer un poco acerca de cómo debían realizarse y del funcionamiento de arquilian. Sin embargo, las pruebas de los servicios REST se presentaron como un reto ya que la seguridad de shiro, el uso de stormpath, y en general librerías incompatibles causaron que la implementación de estas pruebas fuese el mayor reto del ciclo.
