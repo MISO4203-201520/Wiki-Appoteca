@@ -12,7 +12,7 @@
    * [Ciclo 3](chapters/ciclo_3.md)
        * [Planeación](chapters/c3/planeacion.md)
    * [Ciclo 4](chapters/ciclo_4.md)
-       * Planeación
+       * [Planeación](chapters/4/planeacion.md)
 * [Análisis de código](chapters/analisis_de_codigo.md)
    * [Ciclo1](ciclo1.md)
    * [Ciclo2](chapters/sonar/evidencias.md)
