@@ -16,11 +16,10 @@ Se implementó el 100% de los requerimientos
 
 ## Métricas del proceso
 ### Valor Ganado
-
+Ver [Matriz de Requerimientos](chapters/3/Matriz_de_requerimientos2.md)
 ### Productividad del equipo
 
 ## Reflexión
-
 ### Estrella de mar
 - Empezar a hacer
  - Reuniones cortas y frecuentes para hacer seguimiento.
