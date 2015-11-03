@@ -13,7 +13,7 @@
        * [Planeación](chapters/3/matriz_de_requerimientos2.md)
        * [Chequeo de requerimientos](chapters/3/matriz_de_requerimientos.md)
        * [Conclusión](chapters/3/conclusion.md)
-       * [Planeación](chapters/c3/planeacion.md)
+       * [Matriz de Requerimientos](chapters/c3/planeacion.md)
    * [Ciclo 4](chapters/ciclo_4.md)
        * [Planeación](chapters/4/planeacion.md)
 * [Análisis de código](chapters/analisis_de_codigo.md)
