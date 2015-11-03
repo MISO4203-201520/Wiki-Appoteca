@@ -20,11 +20,11 @@ Ver [Matriz de Requerimientos](chapters/3/Matriz_de_requerimientos2.md)
 ### Productividad del equipo
 USUARIO|TIEMPO ESTIMADO|TIEMPO EMPLEADO
 :--:|:--:|:--:
-Ing.acrm|25h 30m|	42h
-af.decastro879|	3h 5m|	5h 50m
-d.jimenez13|	8h 35m|	11h 30m
-jd.patino10|	9h 50m|	15h 10m
-kaosterra|	37h 45m|	14h 10m
+Ing.acrm|3d30m|	42h
+af.decastro879|	4d9h36m|	5h 50m
+d.jimenez13|	2d6h|	11h 30m
+jd.patino10|	2d7h|	15h 10m
+kaosterra|	1s1d3h21m|	14h 10m
 Tiempo total empleado|| 88h 40m
 ## Reflexión
 ### Estrella de mar
