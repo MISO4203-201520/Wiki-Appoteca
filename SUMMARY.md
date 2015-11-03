@@ -10,7 +10,7 @@
        * [Estimación Ciclo 2](chapters/estimacion_ciclo_2.md)
        * [Reporte de trabajo ciclo 2](chapters/reporte_de_trabajo_ciclo_2.md)
    * [Ciclo 3](chapters/ciclo_3.md)
-       * [Matriz de requerimientos](chapters/3/matriz_de_requerimientos2.md)
+       * [Planeación](chapters/3/matriz_de_requerimientos2.md)
        * [Chequeo de requerimientos](chapters/3/matriz_de_requerimientos.md)
        * [Conclusión](chapters/3/conclusion.md)
        * [Planeación](chapters/c3/planeacion.md)
