@@ -9,14 +9,14 @@ Servicios|308
 Backend|994
 
 ### Requerimientos implementados
-Se implementó el 100% de los requerimientos planteados en la [planeación](chapters/c3/planeacion.md)
+Se implementó el 100% de los requerimientos planteados en la [planeación](chapters/3/Matriz_de_requerimientos2.md)
 
 ### Cubrimiento de pruebas
 ![Cubrimiento](sonar.png)
 
 ## Métricas del proceso
 ### Valor Ganado
-Ver [Matriz de Requerimientos](chapters/3/Matriz_de_requerimientos2.md)
+Ver [Planeación](chapters/3/Matriz_de_requerimientos2.md)
 ### Productividad del equipo
 USUARIO|TIEMPO ESTIMADO|TIEMPO EMPLEADO
 :--:|:--:|:--:
@@ -50,7 +50,7 @@ Tiempo total empleado|| 88h 40m
 ### Nuevos integrantes
 Los nuevos integrantes pudieron acoplarse al proceso del equipo rápidamente y lograron sacar adelante sus tareas asignadas al mismo ritmo que los antiguos integrantes.
 ### Trazabilidad de los requerimientos
-ver [Planeación](chapters/c3/planeacion.md)
+ver [Matriz de requerimientos](chapters/c3/planeacion.md)
 ### Implementación de pruebas
 La implementación de las pruebas de la capa lógica permitió conocer un poco acerca de cómo debían realizarse y del funcionamiento de arquilian. Sin embargo, las pruebas de los servicios REST se presentaron como un reto ya que la seguridad de shiro, el uso de stormpath, y en general librerías incompatibles causaron que la implementación de estas pruebas fuese el mayor reto del ciclo.
 
