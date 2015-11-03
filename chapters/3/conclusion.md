@@ -9,7 +9,7 @@ Servicios|308
 Backend|994
 
 ### Requerimientos implementados
-Se implementó el 100% de los requerimientos
+Se implementó el 100% de los requerimientos planteados en la [planeación](chapters/c3/planeacion.md)
 
 ### Cubrimiento de pruebas
 ![Cubrimiento](sonar.png)
