@@ -25,7 +25,7 @@ Incoherencia con respecto a la arquitectura|En el transcurso de los ciclos anter
 ## Requerimientos
 | Requerimiento | Descripción | Responsable |
 | :-----------: | ----------- | ----------- |
-| R13 | El sistema debe alertar a los compradores sobre las nuevas versiones de sus aplicaciones por medio de correo electrónico . | Pending | 
+| R13 | El sistema debe alertar a los compradores sobre las nuevas versiones de sus aplicaciones por medio de correo electrónico . | Juan Daniel Patiño | 
 | R15 | El sistema debe permitir al comprador descargar la aplicación posterior al pago realizado. | Andres Camilo | 
 | R16 | El sistema debe permitir al desarrollador subir una aplicación al sistema y etiquetarla con una versión para que el comprador sepa que versión de la aplicación descarga. | David Jimenez | 
-| R32 | Con la información de la aplicación el desarrollador debe proveer un enlace donde los compradores puedan reportar bugs/issues o solicitudes de mejora. La aplicación misma de manejo de bugs está fuera del alcance de este proyecto. | Pending | 
+| R32 | Con la información de la aplicación el desarrollador debe proveer un enlace donde los compradores puedan reportar bugs/issues o solicitudes de mejora. La aplicación misma de manejo de bugs está fuera del alcance de este proyecto. | Andrés Felipe De Castro | 
