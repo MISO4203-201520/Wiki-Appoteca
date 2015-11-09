@@ -18,7 +18,7 @@
        * [Planeación](chapters/4/planeacion.md)
        * Evaluación de pares
        * [Métricas](chapters/4/metricas.md)
-       * Reflexión
+       * [Reflexión](chapters/4/reflexion.md)
 * [Análisis de código](chapters/analisis_de_codigo.md)
    * [Ciclo1](ciclo1.md)
    * [Ciclo2](chapters/sonar/evidencias.md)
