@@ -7,6 +7,12 @@ Front|216
 Services|97
 Back|386
 
+Durante toda la duración del proyecto se buscó mantener la deuda técnica al mínimo. Este esfuerzo se ve reflejado en la gráfica de línea de tiempo de SonarQube:
+
+![](LoC.png)
+
+El pico al inicio de la gráfica se debe a que accidentalmente se hizo commit de una librería, situación que se corrigió inmediatamente.
+
 ### Requerimientos completados
 Para ver el estado de los requerimientos planeados revisar [Youtrack][youtrack4]
 ### Cobertura de pruebas
