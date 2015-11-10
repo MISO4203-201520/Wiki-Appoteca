@@ -35,6 +35,6 @@ Dejar de hacer|Sacrificar en extrem la vida personal por los compromisos del pro
 Hacer menos de|Implementar cosas que no se solicitaron.
 Seguir haciendo|Dedicarle tiempo a aprender cómo hacer las cosas con alta calidad
 Hacer más de|Enfocarse en los requerimientos solicitados
-Empezar a hacer|
+Empezar a hacer|Hacer seguimiento a la documentación y planeación del proyecto
 
 ## Andrés DeCastro
