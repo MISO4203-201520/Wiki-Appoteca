@@ -31,7 +31,7 @@ Empezar a hacer|Conclusiones sobre el curso, proyecto, grupo de trabajo.
 ## David Jimenez
 Acción|Reflexión
 :--:|:--:
-Dejar de hacer|
+Dejar de hacer|Sacrificar en extrem la vida personal por los compromisos del proyecto
 Hacer menos de|Implementar cosas que no se solicitaron.
 Seguir haciendo|Dedicarle tiempo a aprender cómo hacer las cosas con alta calidad
 Hacer más de|Enfocarse en los requerimientos solicitados
