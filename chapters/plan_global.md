@@ -60,6 +60,7 @@ El resultado es el siguiente:
 | R16 | El sistema debe permitir al desarrollador subir una aplicación al sistema y etiquetarla con una versión para que el comprador sepa que versión de la aplicación descarga. |
 | R17 | El sistema debe ofrecerle al desarrollador una página para llevar el control de venta de sus aplicaciones. En esta página se deben presentar las últimas ventas realizadas, los últimos comentarios, los últimos bugs reportados y debe permitir generar reportes de ventas de sus aplicaciones. |
 | R22 | El sistema debe mostrarle al comprador las aplicaciones más recomendadas basado en sus anteriores compras, los comentarios realizados y sus busquedas anteriores. |
+| R33 | Refactoring de la seguridad para autorizar a partir de permisos. Bajar deuda técnica y aumentar cobertura de pruebas|
 
 ##Otros requerimientos
 
