@@ -19,3 +19,8 @@ La reflexión que queda de la evaluación de pares permite concluir lo siguiente
 3. El equipo se integra e identifica los errores recurrentes y así se mejora para los siguientes ciclos.
 4. La productividad mejora con cada repetición de evaluación de pares. Y se reducen las incidencias.
 
+## Juan Daniel Patiño
+
+## David Jimenez
+
+## Andrés DeCastro
