@@ -11,5 +11,5 @@ Empezar a hacer|Control más riguroso sobre el progreso del equipo.
 
 #Lecciones aprendidas y aspectos de mejora generales del equipo, de los individuos y del curso.
 - Existen mecanismos muy útiles para la gestión de los proyectos, más allá de una simple estimación.
-- El uso de múltiples herramientas puede entorpecer el proceso. Sería ideal poder realizar todas las tareas de planeación, seguimiento y trazabilidad en una única herramienta.
+- El uso de múltiples herramientas puede afectar la productividad del equipo al tener que replicar información en varios lugares. Sería ideal poder realizar todas las tareas de planeación, seguimiento y trazabilidad en una única herramienta.
 - Un esquema de seguridad mal implementado entorpece el proceso de pruebas y en general el uso de la aplicación.
