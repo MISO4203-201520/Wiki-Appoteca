@@ -10,7 +10,6 @@ Back|386
 ### Requerimientos completados
 Para ver el estado de los requerimientos planeados revisar [Youtrack][youtrack4]
 ### Cubrimiento de pruebas
-### Costos de calidad
 
 ## Proceso
 ### Valor ganado
@@ -22,4 +21,4 @@ Para ver la productividad del equipo revisar [reporte de tiempos ciclo 4][tc4]
 
 [tc4]: http://appoteca.myjetbrains.com/youtrack/reports/time/91-4
 
-[plan4]: chapters/4/metricas.md
+[plan4]: chapters/4/planeacion.html
