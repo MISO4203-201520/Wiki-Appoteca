@@ -19,7 +19,7 @@ Durante todo el semestre se procuró mantener la deuda técnica por debajo del 1
 ![](DT.png)
 
 ### Requerimientos completados
-Para ver el estado de los requerimientos planeados revisar [Youtrack][youtrack4]
+Se logró completar el 100% de los requerimientos estimados para el ciclo, además de cambiar el esquema de autorización, reducir la deuda técnica y aumentar la cobertura de pruebas. Para ver el estado de los requerimientos planeados revisar [Youtrack][youtrack4]
 ### Cobertura de pruebas
 De acuerdo a la herramienta SonarQube, se tiene un cubrimiento de pruebas de 67.6%. Esto se logró principalmente haciendo pruebas de la capa lógica y los servicios REST.
 ![](sonar2.png)
