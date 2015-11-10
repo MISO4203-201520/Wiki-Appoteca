@@ -16,7 +16,7 @@
        * [Matriz de Requerimientos](chapters/c3/planeacion.md)
    * [Ciclo 4](chapters/ciclo_4.md)
        * [Planeación](chapters/4/planeacion.md)
-       * Evaluación de pares
+       * [Evaluación de pares](chapters/4/evaluacion_de_pares.md)
        * [Métricas](chapters/4/metricas.md)
        * [Reflexión](chapters/4/reflexion.md)
 * [Análisis de código](chapters/analisis_de_codigo.md)
