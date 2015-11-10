@@ -9,7 +9,7 @@ Back|386
 
 ### Requerimientos completados
 Para ver el estado de los requerimientos planeados revisar [Youtrack][youtrack4]
-### Cubrimiento de pruebas
+### Cobertura de pruebas
 De acuerdo a la herramienta SonarQube, se tiene un cubrimiento de pruebas de 67.6%
 ![](sonar2.png)
 ## Proceso
